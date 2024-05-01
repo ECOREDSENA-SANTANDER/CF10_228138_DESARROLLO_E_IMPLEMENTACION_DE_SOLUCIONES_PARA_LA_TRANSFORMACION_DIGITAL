@@ -576,6 +576,397 @@
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.3 La evolución de la informática en la nube
+    
+    .row.align-items-end.mb-4
+      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+        img(src='@/assets/curso/temas/compu.svg', alt='')
+      .col-lg-8(data-aos="fade-left")
+        p Si bien la computación en la nube es un término que se popularizó como un nuevo paradigma en el acceso a servicios e infraestructura en los años 2008 y 2009, desde la década del 60 ya se hablaba de este paradigma y, es a John McCarthy a quien se le atribuye la definición y el concepto tanto de computo en la nube como el de inteligencia artificial.
+        .cajon.color-secundario.bg-9.p-4.mb-4
+          p.mb-4 Posteriormente surgen nuevos autores como Joseph Carl Robnett Licklider, quien en sus conceptos siempre hablo de contar con una tecnología que permitiera que todo el mundo estuviera interconectado y que de esta manera  pudiera acceder a la información desde cualquier lugar sin límites de distancias ni fronteras, este sueño dio origen a la computación en la nube, la cual se crea con el propósito de poder descentralizar los recursos de cómputo y almacenamiento para distribuirlos alrededor del mundo y facilitar el acceso a la información cada vez a más personas.
+    
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          img(src='@/assets/curso/temas/cielo.png', alt='')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p Los orígenes del término “nube”, comúnmente se asocian al término que se derivó de una metáfora que tomaba como base al dibujo de nubes que se utilizaban en el pasado para representar a la red telefónica, y que posteriormente algunos comenzaron a representar al Internet.
+    
+    .h5 Podemos resumir la evolución en las siguientes fases:
+
+
+
+
+    separador
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      .h2 1.4 Bloques de creación en la nube
+    
+    .row.justify-content-center.align-items-center.fondo-9.mb-3
+      .col-12.col-md-12.col-lg-7.col-xl-7.my-3(data-aos="fade-right")
+        p.mb-3 La computación en la nube permite el uso de recursos y servicios tecnológicos a través de la Red en este caso internet, la nube da la posibilidad de que cada empresa pueda acceder a los servicios requeridos es decir no todos necesitaran o utilizaran los mismos servicios, las tecnologías de la información, y las comunicaciones se han convertido en un factor potenciador y necesario para que las empresas sin importar el tipo, sino que funcionen de una manera eficaz y efectiva de acuerdo a su core de negocio, aunque en general los recursos de TI los podemos clasificar en tres componentes, como se ve en la figura 5.
+        .cajon.color-custom.p-4.mb-4
+          p.mb-0 Estos componentes de igual manera requieren una serie de tareas asociadas, estas son:
+        .row.justify-content-center.mb-3
+          .col
+            img.img-a.img-t(src='@/assets/curso/temas/tarjetas.svg' alt='')
+      .col-12.col-lg-5.col-xl-5.mb-4(data-aos="fade-left")
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 5.
+              span Componentes de TI
+          img.img-a.img-t(src="@/assets/curso/temas/imag22.svg" alt="")
+    
+    p.mb-4 Toda organización que requiera implementar cualquier solución de TI requerirá desarrollar las anteriores tareas, si la organización tiene además sus propios desarrollos o procesos de desarrollo in house, se debe agregar las tareas anteriormente mencionadas las plataformas de desarrollo.
+    p.mb-4 En general los bloques de creación en la nube los podemos catalogar en 4 niveles que son:
+    
+    SlyderA(tipo="b").bg2.mb-4
+      .row
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/Slider1.svg', alt='Texto que describa la imagen')
+        .col-md-6.mb-4.mb-md-0
+          h4 Nivel de infraestructura
+          p Son los recursos utilizados por la empresa en un servicio en la nube, estos recursos pueden ser:
+          ul.lista-ul
+            li 
+              i.fas.fa-angle-right
+              | Almacenamiento, 
+            li 
+              i.fas.fa-angle-right
+              | Procesamiento, 
+            li 
+              i.fas.fa-angle-right
+              | Networking,
+            li 
+              i.fas.fa-angle-right
+              | Software de administración de la infraestructura.
+      .row
+        .col-md-6.mb-4.mb-md-0
+          h4 Uso compartido de recursos
+          p Normalmente asociados a la consolidación y uso de tecnologías como la virtualización que permite un entorno compartido donde se pueden ejecutar varias máquinas virtuales o contenedores en un mismo servidor, se proporcionan servicios como:
+          ul.lista-ul
+            li 
+              i.fas.fa-angle-right
+              | Software 
+            li 
+              i.fas.fa-angle-right
+              | Red 
+            li 
+              i.fas.fa-angle-right
+              | Almacenamiento
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/Slider2.svg', alt='Texto que describa la imagen')
+      .row
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/Slider3.svg', alt='Texto que describa la imagen')
+        .col-md-6.mb-4.mb-md-0
+          h4 Plataformas de desarrollo
+          p Esta capa permite a los desarrolladores de software construir aplicaciones a través de las interfaces de programación de aplicaciones (API), esto suministrado por el proveedor de servicios en la nube, a través de las API, el desarrollador puede acceder a servicios de:
+          ul.lista-ul
+            li 
+              i.fas.fa-angle-right
+              | Autenticación 
+            li 
+              i.fas.fa-angle-right
+              | Bases de datos  
+            li 
+              i.fas.fa-angle-right
+              | Almacenamiento y
+            li 
+              i.fas.fa-angle-right
+              | Otros módulos o servicios disponibles.
+      .row
+        .col-md-6.mb-4.mb-md-0
+          h4 Software de aplicaciones
+          p Son todas aquellas aplicaciones desarrolladas in house o adquiridas. Utilizadas por las organizaciones para el cumplimiento de sus procesos misionales, son las aplicaciones que utiliza el usuario final.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/Slider4.svg', alt='Texto que describa la imagen')
+    
+    p.mb-4 A continuación, se ilustra el modelo de Bloques y sus diferentes niveles.
+
+    .row.justify-content-center
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 6.
+          span  Modelo de Bloques de creación en la Nube
+    .row.justify-content-center
+      .col-lg-6.mb-4(data-aos="fade")
+          img.mb-3(src="@/assets/curso/temas/figura6.svg" alt="", style="width:600px; display:block; margin:auto 0;")
+    
+    separador
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      .h2 1.5 Tipos de nubes
+    
+    p.mb-4 Para acceder a los servicios de computación en la nube existen varios modelos de entrega o despliegue de la nube los cuales pueden ser, veamos:
+
+    .row.justify-content-center.align-items-center
+      .col-8.col-lg-6.my-3(data-aos="fade-right")
+        img.img-a.img-t.m-1(src="@/assets/curso/temas/imag23.svg").mb-4
+      .col-12.col-lg-6.my-3(data-aos="fade-left")
+        SlyderF
+          .tarjeta.tarjeta--blanca-5.boxShadow.p-5.h-100
+            .row.justify-content-center
+              .col-md-10.mb-4.mb-md-2.p-0
+                img.mt-3(src='@/assets/curso/temas/nube.svg' alt='imagen relacionada' style='width:105px').mx-auto        
+              .col-md-10.py-3
+                h3.text-center.mb-3  Nube pública
+                p.text-center Los servicios e infraestructura son gestionados por un proveedor de tecnológico el cual ofrece estos servicios al público en general. 
+          .tarjeta.tarjeta--blanca-5.boxShadow.p-5.h-100
+            .row.justify-content-center
+              .col-md-10.mb-4.mb-md-2.p-0
+                img.mt-3(src='@/assets/curso/temas/nube1.svg' alt='imagen relacionada' style='width:105px').mx-auto         
+              .col-md-10.py-3
+                h3.text-center.mb-3  Nube privada
+                p.text-center En este tipo de nube los servicios y la infraestructura es gestionada específicamente por una organización y no se ofrecen estos servicios al público en general.
+          .tarjeta.tarjeta--blanca-5.boxShadow.p-5.h-100
+            .row.justify-content-center
+              .col-md-10.mb-4.mb-md-2.p-0
+                img.mt-3(src='@/assets/curso/temas/nube2.svg' alt='imagen relacionada' style='width:105px').mx-auto          
+              .col-md-10.py-3
+                h3.text-center.mb-3  Nube híbrida
+                p.text-center.px-2.px-md-0 Son nubes que combinan las características de dos nubes privadas, las nubes públicas o compartidas, se caracterizan por que permiten el poder compartir servicios e infraestructura entre ambas nubes.
+          .tarjeta.tarjeta--blanca-5.boxShadow.p-5.h-100
+            .row.justify-content-center
+              .col-md-10.mb-4.mb-md-2.p-0
+                img.mt-3(src='@/assets/curso/temas/nube3.svg' alt='imagen relacionada' style='width:105px').mx-auto        
+              .col-md-10.py-3
+                h3.text-center.mb-3  Nube comunitaria
+                p.text-center Este es un tipo de nube que es creada para un propósito o fin específico donde se accede y comparte servicios e infraestructura entre los integrantes de la nube, normalmente son administradas por alguno de los miembros de la comunidad organizada en la nube.
+
+    separador
+    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      .h2 1.6 Principales proveedores de servicios en la nube
+    
+    .row.align-items-end.mb-4
+      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+        img(src='@/assets/curso/temas/imag24.png', alt='')
+      .bg1.col-lg-8(data-aos="fade-left")
+        p Debido a la masificación y cada vez mayor adopción de tecnologías de cloud computing, han sido muchos los nuevos proveedores que han ido surgiendo y posicionando sus ofertas de servicios, sin embargo, en el mundo occidental podemos mencionar los siguientes como los más grandes y más importantes proveedores de servicios en la nube.
+    
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+        .row(titulo="Amazon Web Services (AWS)")
+          .col-md-12.col-lg-6(data-aos="fade-right")
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/amazon.png', alt='')
+          .col-md-12.col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/logoamazon.svg', alt='')
+            p <b>Amazon Web Services (AWS), </b> es quizá el líder en la oferta de varios servicios a través de la nube en este caso pública, esta empresa empezó ofreciendo servicios como el conocido S3, servicio dedicado al almacenamiento de objetos y posteriormente agregó a su oferta los servicios de EC2, la nube de proceso elástico o por demanda donde se puede acceder a máquinas virtuales, contenedores y virtualización en general. 
+          .cajon.color-custom.p-4.mb-3(data-aos="fade")
+            p.mb-0 AWS es quizá la nube más grande con datacenter de alta disponibilidad distribuidos alrededor del mundo proporcionando redundancia y disponibilidad en más de 22 regiones distintas, (figura 7) cada zona de disponibilidad constituye una partición totalmente aislada de la infraestructura de AWS que consta de centros de datos discretos con alimentación, redes y conectividad redundantes.
+          .row.justify-content-center
+              .col-lg-12
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 7 
+                  span  Regiones con Centros de Datos AWS
+          .row.justify-content-center
+            .col-lg-12.mb-4(data-aos="fade")
+                img.img-a.img.t(src="@/assets/curso/temas/mapa.svg" alt="")
+          
+          .row.justify-content-end.fondo-15
+            .col-lg-5.my-3
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white Servicios de procesamiento
+                  p Procesamiento a través de máquinas virtuales, contenedores o instancias de diferentes configuraciones las cuales pueden ser alquiladas por horas, días o por un largo tiempo, este servicio es conocido como Ec2.
+
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de almacenamiento
+                  p Es el servicio de almacenamiento que puede ser elástico (EBS) o servicios de almacenamiento simple (S3), incluye almacenamiento de objetos, bases de datos, almacenamiento y recuperación de objetos binarios (BLOB), entre múltiples servicios adicionales relacionados con el almacenamiento de información.
+
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de redes
+                  p En este servicio es muy popular la Ruta 53 de Amazon, la cual ofrece el servicio de interconexión y conectividad entre las diferentes instancias o con otras redes externas, incluye además servicios como Nube privada virtual(VPC), Elastic Load Balancer (EBL).
+                
+          .row.justify-content-center.d-block.d-lg-none.mb-4
+            .col-lg-12
+              img(src="@/assets/curso/temas/fondo.png" alt="")
+            .col-lg-6
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white Servicios de procesamiento
+                  p Procesamiento a través de máquinas virtuales, contenedores o instancias de diferentes configuraciones las cuales pueden ser alquiladas por horas, días o por un largo tiempo, este servicio es conocido como Ec2.
+
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de almacenamiento
+                  p Es el servicio de almacenamiento que puede ser elástico (EBS) o servicios de almacenamiento simple (S3), incluye almacenamiento de objetos, bases de datos, almacenamiento y recuperación de objetos binarios (BLOB), entre múltiples servicios adicionales relacionados con el almacenamiento de información.
+
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de redes
+                  p En este servicio es muy popular la Ruta 53 de Amazon
+
+        .row(titulo="Microsoft Azure")
+          .col-md-12.col-lg-6
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/imag25.png', alt='')
+          .col-md-12.col-lg-6.mb-4.mb-md-0
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/azurelogo.svg', alt='')
+            p Es la nube de la empresa Microsoft, Azure es quizá la plataforma con crecimiento más rápido en el mercado de Cloud, tiene más de 50 centros de datos distribuidos alrededor de más de 140 países (figura 8) a través de servicios como Azure Stack permite que una organización pueda crear su nube privada y posteriormente integrar a la nube pública de Azure y de esta manera poder interactuar con todas las bondades, características y servicios de Azure. 
+          .row.justify-content-center
+              .col-lg-12
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 8 
+                  span  Regiones con Centros de Datos Microsoft Azure
+          .row.justify-content-center
+            .col-lg-12.mb-4
+                img.img-a.img.t(src="@/assets/curso/temas/mapa1.png" alt="")
+          
+          .row.justify-content-end.fondo-16
+            .col-lg-5.my-3
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1 Servicios de procesamiento
+                  p En este servicio Azure ofrece: 
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Virtual Machines con instancias de distintos tipos, soportando Windows y algunas versiones o distribuciones de Linux.
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Storage
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1 Servicios de almacenamiento
+                  p El servicio es conocido como Azure Storage este servicio incluye:
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure blobs para el almacenamiento de objetos binarios grandes (BLOBS).
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Tables para el almacenamiento de bases de datos No SQL.
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Files que son servicios de almacenamiento compatibles con Windows (SMB), al igual que ofrece todos los servicios de almacenamiento de bases de datos relacionales a través de Azure SQL Database.
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1 Servicios de redes
+                  p A través del servicio de Azure virtual network ofrece redes privadas virtuales, ofrece el servicio de Azure Traffic Manager para enrutar y administrar la conectividad y acceso a sus instancias y redes externas.
+    
+          .row.justify-content-center.d-block.d-lg-none.mb-4
+            .col-lg-12
+              img(src="@/assets/curso/temas/fondo2.png" alt="")
+            .col-lg-6
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1 Servicios de procesamiento
+                  p En este servicio Azure ofrece: 
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Virtual Machines con instancias de distintos tipos, soportando Windows y algunas versiones o distribuciones de Linux.
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Storage
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1 Servicios de almacenamiento
+                  p El servicio es conocido como Azure Storage este servicio incluye:
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure blobs para el almacenamiento de objetos binarios grandes (BLOBS).
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Tables para el almacenamiento de bases de datos No SQL.
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Azure Files que son servicios de almacenamiento compatibles con Windows (SMB), al igual que ofrece todos los servicios de almacenamiento de bases de datos relacionales a través de Azure SQL Database.
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de redes
+                  p A través del servicio de Azure virtual network ofrece redes privadas virtuales, ofrece el servicio de Azure Traffic Manager para enrutar y administrar la conectividad y acceso a sus instancias y redes externas.
+        
+        .row(titulo="Amazon Web Services (AWS)")
+          .col-md-12.col-lg-6
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/google.png', alt='')
+          .col-md-12.col-lg-6.mb-4.mb-md-0
+            figure
+              img.img-a.img-t(src='@/assets/curso/temas/logogoogle.svg', alt='')
+            p Google Cloud Platform (GCP) es una plataforma que ha ido evolucionando en su oferta de servicios como respuesta al crecimiento de sus competidores, Google cuenta con aproximadamente 60 centros de Datos en más de 20 regiones alrededor del mundo, como puede observarse en la figura 9.
+          .row.justify-content-center
+              .col-lg-12
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 9
+                  span Regiones de Google Cloud
+          .row.justify-content-center
+            .col-lg-12.mb-4
+                img.img-a.img.t(src="@/assets/curso/temas/mapa2.svg" alt="")
+          
+          .row.justify-content-end.fondo-17
+            .col-lg-5.my-3
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white Servicios de procesamiento
+                  p A través de su servicio Google Compute Engine (GCE), ofrece máquinas virtuales e instancias de diferentes tipos con sistema operativo Linux.
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de almacenamiento
+                  p Google Cloud cuenta con tres servicios de almacenamiento principales: 
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Google Cloud Storage, un servicio de almacenamiento de objetos similar a AWS S3 y Azure Blobs. 
+                    li 
+                      i.fas.fa-angle-right
+                      | Google Cloud Datastore es un servicio administrado de almacén de datos NoSQL. 
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Cloud SQL servicio que proporciona el almacenamiento de bases de datos tradicionales SQL.
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de redes
+                  p Google ofrece varios productos de red para administrar las conexiones entre los servicios en la nube de Google y el mundo exterior, es decir, el equilibrio de carga, la interconexión y los servicios DNS. Toda la infraestructura de Google es neutral en carbono y sus centros de datos consumen un 50% menos de energía que los centros de datos habituales.
+                
+          .row.justify-content-center.d-block.d-lg-none.mb-4
+            .col-lg-12
+              img(src="@/assets/curso/temas/fondo3.png" alt="")
+            .col-lg-6
+              SlyderF
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white Servicios de procesamiento
+                  p A través de su servicio Google Compute Engine (GCE), ofrece máquinas virtuales e instancias de diferentes tipos con sistema operativo Linux.
+
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de almacenamiento
+                  p Google Cloud cuenta con tres servicios de almacenamiento principales: 
+                   ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Google Cloud Storage, un servicio de almacenamiento de objetos similar a AWS S3 y Azure Blobs. 
+                    li 
+                      i.fas.fa-angle-right
+                      | Google Cloud Datastore es un servicio administrado de almacén de datos NoSQL. 
+                  ul.lista-ul
+                    li 
+                      i.fas.fa-angle-right
+                      | Cloud SQL servicio que proporciona el almacenamiento de bases de datos tradicionales SQL.
+                .tarjeta.tarjeta--blanca-5.boxShadow.p-4
+                  .row.justify-content-center.mb-3
+                  h3.text-center.mb-3.bg-color-1.text-white  Servicios de redes
+                  p Google ofrece varios productos de red para administrar las conexiones entre los servicios en la nube de Google y el mundo exterior, es decir, el equilibrio de carga, la interconexión y los servicios DNS. Toda la infraestructura de Google es neutral en carbono y sus centros de datos consumen un 50% menos de energía que los centros de datos habituales.
+    
+    p.mb-4 A continuación, se muestra una tabla resumen con los principales servicios ofrecidos por cada uno de los proveedores antes mencionados.
+
 
 </template>
 
