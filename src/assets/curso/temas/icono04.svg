@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="58" viewBox="0 0 56 58">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_37093" data-name="Rectángulo 37093" width="46.099" height="46.099" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1077998" data-name="Grupo 1077998" transform="translate(-610.675 -1989.901)">
+    <g id="Grupo_1077997" data-name="Grupo 1077997">
+      <g id="Grupo_1077996" data-name="Grupo 1077996">
+        <g id="Grupo_1077995" data-name="Grupo 1077995">
+          <g id="Grupo_1077994" data-name="Grupo 1077994">
+            <g id="Grupo_1077993" data-name="Grupo 1077993">
+              <g id="Grupo_1076289" data-name="Grupo 1076289" transform="translate(610.79 1990.364)">
+                <ellipse id="Elipse_4869" data-name="Elipse 4869" cx="28" cy="29" rx="28" ry="29" transform="translate(-0.114 -0.463)" fill="#2efec7"/>
+                <g id="Grupo_142369" data-name="Grupo 142369" transform="translate(5.649 5.653)">
+                  <g id="Grupo_141632" data-name="Grupo 141632" clip-path="url(#clip-path)">
+                    <path id="Trazado_183474" data-name="Trazado 183474" d="M38.914,59.433a20.52,20.52,0,1,1,20.52-20.52,20.543,20.543,0,0,1-20.52,20.52m0-39.6A19.076,19.076,0,1,0,57.989,38.913,19.1,19.1,0,0,0,38.914,19.837" transform="translate(-15.864 -15.863)" fill="#12263f"/>
+                    <path id="Trazado_183475" data-name="Trazado 183475" d="M163.057,193.233a.722.722,0,0,1,0-1.444,13.455,13.455,0,0,0,13.3-11.186.722.722,0,0,1,1.423.245,14.941,14.941,0,0,1-14.72,12.384" transform="translate(-140.007 -155.246)" fill="#12263f"/>
+                    <path id="Trazado_183476" data-name="Trazado 183476" d="M191.923,75.839a.722.722,0,0,1-.722-.722A13.5,13.5,0,0,0,179.926,61.8a.722.722,0,0,1,.236-1.425,14.941,14.941,0,0,1,12.483,14.737.722.722,0,0,1-.722.722" transform="translate(-154.658 -52.067)" fill="#12263f"/>
+                    <path id="Trazado_183477" data-name="Trazado 183477" d="M60.892,72.477a.729.729,0,0,1-.11-.008.722.722,0,0,1-.6-.823A14.941,14.941,0,0,1,74.943,58.981a.722.722,0,0,1,0,1.444A13.5,13.5,0,0,0,61.605,71.864a.722.722,0,0,1-.713.613" transform="translate(-51.893 -50.869)" fill="#12263f"/>
+                    <path id="Trazado_183478" data-name="Trazado 183478" d="M71.75,177.829a.713.713,0,0,1-.11-.009,14.941,14.941,0,0,1-12.659-14.765.722.722,0,1,1,1.444,0,13.5,13.5,0,0,0,11.433,13.337.722.722,0,0,1-.108,1.436" transform="translate(-50.869 -140.006)" fill="#12263f"/>
+                    <path id="Trazado_183479" data-name="Trazado 183479" d="M163.057,11.5a.722.722,0,0,1-.722-.722V.722a.722.722,0,1,1,1.444,0V10.774a.722.722,0,0,1-.722.722" transform="translate(-140.007)" fill="#12263f"/>
+                    <path id="Trazado_183480" data-name="Trazado 183480" d="M10.773,163.778H.721a.722.722,0,0,1,0-1.444H10.773a.722.722,0,0,1,0,1.444" transform="translate(0.001 -140.006)" fill="#12263f"/>
+                    <path id="Trazado_183481" data-name="Trazado 183481" d="M163.057,263.082a.722.722,0,0,1-.722-.722V252.308a.722.722,0,0,1,1.444,0V262.36a.722.722,0,0,1-.722.722" transform="translate(-140.007 -216.983)" fill="#12263f"/>
+                    <path id="Trazado_183482" data-name="Trazado 183482" d="M254.248,163.778h-1.94a.722.722,0,0,1,0-1.444h1.94a.722.722,0,1,1,0,1.444" transform="translate(-216.983 -140.006)" fill="#12263f"/>
+                    <path id="Trazado_183483" data-name="Trazado 183483" d="M274.521,163.778h-8.112a.722.722,0,0,1,0-1.444h8.112a.722.722,0,1,1,0,1.444" transform="translate(-229.144 -140.006)" fill="#12263f"/>
+                    <path id="Trazado_183484" data-name="Trazado 183484" d="M128.65,188.122a.722.722,0,0,1-.682-.484,6.193,6.193,0,0,0-11.692,0,.722.722,0,0,1-1.364-.476,7.637,7.637,0,0,1,14.419,0,.722.722,0,0,1-.682.96" transform="translate(-99.072 -157.005)" fill="#12263f"/>
+                    <path id="Trazado_183485" data-name="Trazado 183485" d="M133.615,107.97a5.417,5.417,0,1,1,5.417-5.417,5.423,5.423,0,0,1-5.417,5.417m0-9.39a3.973,3.973,0,1,0,3.973,3.973,3.977,3.977,0,0,0-3.973-3.973" transform="translate(-110.566 -83.776)" fill="#12263f"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
