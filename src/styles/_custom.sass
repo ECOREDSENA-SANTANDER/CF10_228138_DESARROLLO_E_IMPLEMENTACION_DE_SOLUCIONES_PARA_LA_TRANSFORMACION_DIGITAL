@@ -21,17 +21,67 @@
   100%
     transform: translateX(0px)
 
+  
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
 
 .subtitulo
   background-color: #FFB476 
   padding: 7px 25px
   border-radius: 5px
   width: fit-content
+.z-999
+  z-index: 999
+.mb-n8
+  margin-bottom: -8%  
+.mb-n15
+  margin-bottom: -15%  
+.mt-n5
+  margin-top: -5%
+.bx-shadow
+  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+.borde-gris
+  border: 1px solid #ececec
+.h-35
+  height: 35px
+.h-45
+  height: 45px
+.linea
+  height: 1px
+  background-color: #12263F
+  width: 100%
 
 .bg1
   background-color: #FFECDC 
 .bg2
   background-color: #FFF3EA 
+.bg3  
+  background-color: #F1F4F5
+.bg4
+  background-color:  #444A4E
+.bg5
+  background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(255,255,255,1) 50%, rgba(222,222,222,1) 100%)  
+.bg6
+  background-color:   #083142
+.bg7
+  background-color: #E6EEF3
+.bg8
+  background-color: #FAFAFA
+.bg9
+  background-color: #FFC8BF
+.bg10
+  background-color:  #12263F
+.bg11
+  background-color:   #FF6148
 .color-custom
 	background-color: #FFC8BF
 	&::before
@@ -44,14 +94,16 @@
 .text3
   color: #FFFFFF
 
+
 .floatRight
   float: right
-.fcs
-  background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(255,255,255,1) 50%, rgba(222,222,222,1) 100%)!important
 .align-14
   text-align: left  !important
   margin-left: 3.5rem !important
   margin-right: -4rem !important
+  @media (max-width: 992px)
+    margin-right: 0rem !important
+    margin-left: 0rem !important
 .flex-container
   display: flex
   flex-wrap: nowrap
@@ -67,23 +119,6 @@
   z-index: 1
   width: 94%
   margin: 0 auto
-.caja
-  background-color: white
-  color: black 
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-  font-weight: bold
-  width: 140px
-  height: 160px
-  text-align: center
-  margin: 5px
-  border-top-left-radius: 10px
-  border-top-right-radius: 10px
-  border-bottom-left-radius: 10px
-  border-bottom-right-radius: 10px
-  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
-  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
-  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
-  z-index: 1
 .contenedor-total
   position: relative
   width: 100%
@@ -149,22 +184,6 @@
   border-radius: 20px
   @media (max-width: 992px)
     display: none
-.infog1-perso 
-  margin-top: 0px !important
-.bg-color-1
-  padding: 6px
-  background-color: #FFF7F0 
-.tarjeta-blanca
-  background-color: #FFF !important
-  border-top-left-radius: 15px
-  border-top-right-radius: 15px
-  border-bottom-right-radius: 15px
-  border-bottom-left-radius: 15px
-  width: 450px
-  margin-top: -200px !important
-  @media (max-width: 992px)
-    width: 330px
-    margin-left: -30px
 .pRelative_1
   position: relative
   margin-inline-end:  -0.8rem
@@ -181,13 +200,6 @@
 .img-a 
   display: block
   margin: auto
-.tarjeta--blanca-5
-  background-color: #FFF !important
-  border-top-left-radius: 15px
-  border-top-right-radius: 15px
-  border-bottom-right-radius: 15px
-  border-bottom-left-radius: 15px
-  border: 1px solid rgba(46, 46, 46, 0.055) 
 .tarjeta-azul
   background-color: #083142 !important
   border-top-left-radius: 15px
@@ -206,3 +218,99 @@
   box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
 .tarjeta--gris
   background-color: #F6F6F6 
+
+.img-infog1
+  position: relative  
+h2.numeroTarjeta 
+  font-size: 55px
+  color: #fff
+  opacity: .27 
+  position: absolute
+  top: -15px
+  right: 2%
+
+.fondo-menu
+  background-image: url('../assets/curso/temas/t1/fondo-menu.png')
+  background-size: 100% 70%
+  background-repeat: no-repeat
+  @media (max-width: 769px)
+    background-size: cover
+.menu7
+  width: 14.2%
+  @media (min-width: 577px) and (max-width: 769px)
+    width: 49%
+  @media (max-width: 576px)
+    width: 100%
+.caja
+  background-color: white
+  border-radius: 10px
+  height: 180px
+  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  z-index: 1
+  text-align: center 
+  @media (max-width: 769px)
+    height: auto
+  img
+    width: 60px
+  a
+    font-weight: bold
+     
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta
+  background-color: #FFECDC
+
+.t1-1 .bloque-texto-g
+  border-top-left-radius: 55px
+  border-bottom-left-radius: 10px
+.t1-3 
+  .bloque-texto-g
+    border-top-left-radius: 55px
+    border-bottom-left-radius: 10px
+  .bloque-texto-g__img  
+    border-top-left-radius: 55px
+    border-bottom-left-radius: 10px
+    border-bottom-right-radius: 55px
+    border-top-right-radius: 10px
+
+.tarjeta-blanca
+  background-color: #FFF !important
+  border-radius: 15px
+  width: 450px
+  @media (max-width: 992px)
+    width: 330px
+    margin-left: -30px
+  .bg-color-1
+    background-color: #FFB476
+    padding: 5px 15px 
+    width: fit-content
+
+.t1-1 
+  .slyder-f__btn
+    width: 50px
+  .slyder-f__btn i
+    font-size: 1.8rem
+    background-color: #2EFEC7
+    border-radius: 50%
+    padding: 10px 13px
+
+.caja2
+  background-color: white
+  border-radius: 10px
+  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  text-align: center 
+
+.slyder-a__bullets__item 
+  background-color: #AFAFAF
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #2EFEC7
+.slyder-a__bullets__item:hover 
+  border-color: #FF6148
+.slyder-a__bullets__item--active 
+  background-color: #FF6148
+  border-color: #FF6148
+
+.acordion__activo .acordion__accion__btn--a
+  background-color: #2EFEC7
