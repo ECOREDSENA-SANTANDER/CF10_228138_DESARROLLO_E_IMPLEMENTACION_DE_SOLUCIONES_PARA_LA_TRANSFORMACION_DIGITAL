@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis es un mapa conceptual que resume aspectos importantes de la computación en la nube. Se divide en tres áreas principales: Fundamentos, que abarca conceptos básicos, servicios y estructura; Rentabilidad, que evalúa ventajas, desventajas y consideraciones económicas para usuarios y proveedores y un área relacionada con amenazas y aspectos contractuales.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
