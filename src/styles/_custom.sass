@@ -84,10 +84,23 @@
   background-color:   #FF6148
 .bg12
   background-color: #E4E9EB 
+.bg13
+  background-color:  #FFB476
 .color-custom
 	background-color: #FFC8BF
 	&::before
 		background-color: #FF8E7C
+.fondo-t2
+  background: #E4E9EB
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+.fondo-t1
+  background: #FFEFE3
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+
 
 .text1
   color: #058160 
@@ -300,6 +313,8 @@ h2.numeroTarjeta
 
 .slyder-a__bullets__item 
   background-color: #AFAFAF
+  @media (max-width: 768px)
+    margin: 0 5px
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
   background-color: #2EFEC7
 .slyder-a__bullets__item:hover 
@@ -310,3 +325,37 @@ h2.numeroTarjeta
 
 .acordion__activo .acordion__accion__btn--a
   background-color: #2EFEC7
+
+.tarjeta2-6
+  background-color: #fff  
+  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  border-bottom: 5px solid #FF8E7C
+  border-top-left-radius: 15px
+  border-top-right-radius: 15px
+
+.col-img  
+  display: flex
+  flex-direction: column
+  align-items: center
+.linea_dots
+  flex: 1
+  display: flex
+  justify-content: center
+  padding: 5px 0
+.linea_dots::after 
+  content: ""
+  display: block
+  width: 0
+  height: 100%
+  border-left: 5px dotted #707070
+
+.text-right
+  text-align: right !important  
+.tabla-a .t1-6 td
+  border: 0px
+.tabla-a .t1-6 .br
+  border-right: 3px solid #49495C  
+.tabla-a .t1-6 .bb
+  border-bottom: 3px solid #49495C  

@@ -70,7 +70,7 @@
 
     .row.justify-content-center.d-flex.d-md-none.mb-5(data-aos="fade-down")
       .row.mb-2
-        img.mb-n15.z-999(src='@/assets/curso/temas/t1/imgInfog1-1.svg')
+        img.mb-n15.z-999.px-5(src='@/assets/curso/temas/t1/imgInfog1-1.svg')
         .tarjeta.color-primario.p-3
           .row.space-between.img-infog1.align-items-center.text-white.mb-0
             .col-md-10.col-9
@@ -79,7 +79,7 @@
               h2.numeroTarjeta.mb-0 01
           p.text-white.mb-0 Los servicios de infraestructura en la Nube, conocido como LaaS por sus siglas en inglés; se presentan como aplicaciones de autoservicio creadas para el acceso, control y gestión de infraestructuras remotas.
       .row.mb-2
-        img.mb-n8.z-999(src='@/assets/curso/temas/t1/imgInfog1-2.svg')
+        img.mb-n8.z-999.px-5(src='@/assets/curso/temas/t1/imgInfog1-2.svg')
         .tarjeta.bg4.p-3
           .row.space-between.img-infog1.align-items-center.text-white.mb-0
             .col-md-10.col-9
@@ -88,7 +88,7 @@
               h2.numeroTarjeta.mb-0 02
           p.text-white.mb-0 Las Plataformas en la Nube son tan flexibles y versátiles que se usan para desarrollar aplicaciones y sistemas complejos para impulsar los entornos virtuales. De hecho; los sistemas PaaS proporcionan marcos virtuales donde los especialistas desarrollan y personalizan sus sistemas los propietario y las aplicaciones.
       .row.mb-2
-        img.mb-n15.z-999(src='@/assets/curso/temas/t1/imgInfog1-3.svg')
+        img.mb-n15.z-999.px-5(src='@/assets/curso/temas/t1/imgInfog1-3.svg')
         .tarjeta.color-primario.p-3
           .row.space-between.img-infog1.align-items-center.text-white.mb-0
             .col-md-10.col-9
@@ -97,7 +97,7 @@
               h2.numeroTarjeta.mb-0 03
           p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como Software como Servicio(SaaS) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los SaaS representan el mayor mercado de servicios y sistemas en la Nube.
       .row.mb-2
-        img.mb-n8.z-999(src='@/assets/curso/temas/t1/imgInfog1-4.svg')
+        img.mb-n8.z-999.px-5(src='@/assets/curso/temas/t1/imgInfog1-4.svg')
         .tarjeta.bg4.p-3
           .row.space-between.img-infog1.align-items-center.text-white.mb-0
             .col-md-10.col-9
@@ -159,38 +159,38 @@
           p.mb-0 Las redes han permitido que los servicios y el acceso a estos recursos sea cada vez más necesario ya que se requiere tener en todo momento trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos, esto es lo que conocemos como el networking. Para que dichas redes pueden interconectarse y trabajar en red se requiere de una serie de componentes desde el punto de vista físico y lógico dentro de los cuales destacamos los siguientes:
     
     .row.mb-5(data-aos="fade-down")
-      .col-sm-6.col-lg.mb-4.mb-lg-0
+      .col-6.col-lg.mb-4.mb-lg-0
         .tarjeta.bx-shadow.p-4
           .row.justify-content-center.mb-3
-            .col-7
+            .col-8.col-md-5.col-lg-7
               figure
                 img(src='@/assets/curso/temas/tarjeta1.svg', alt='')
           h4.text-center.mb-0 Modelos de referencia
-      .col-sm-6.col-lg
+      .col-6.col-lg
         .tarjeta.bx-shadow.p-4
           .row.justify-content-center.mb-3
-            .col-7
+            .col-8.col-md-5.col-lg-7
               figure
                 img(src='@/assets/curso/temas/tarjeta2.svg', alt='')
           h4.text-center.mb-0 Protocolos de comunicación
-      .col-sm-6.col-lg
+      .col-6.col-lg
         .tarjeta.bx-shadow.p-4
           .row.justify-content-center.mb-3
-            .col-7
+            .col-8.col-md-5.col-lg-7
               figure
                 img(src='@/assets/curso/temas/tarjeta3.svg', alt='')
           h4.text-center.mb-0 Puertos de comunicación
-      .col-sm-6.col-lg
+      .col-6.col-lg
         .tarjeta.bx-shadow.p-4
           .row.justify-content-center.mb-3
-            .col-7
+            .col-8.col-md-5.col-lg-7
               figure
                 img(src='@/assets/curso/temas/tarjeta4.svg', alt='')
           h4.text-center.mb-0 Medios de transmisión
-      .col-sm-6.col-lg
+      .col-6.col-lg
         .tarjeta.bx-shadow.p-4
           .row.justify-content-center.mb-3
-            .col-7
+            .col-8.col-md-5.col-lg-7
               figure
                 img(src='@/assets/curso/temas/tarjeta5.svg', alt='')
           h4.text-center.mb-0 Recursos compartidos 
@@ -199,9 +199,9 @@
       h3.mb-0 Modelo de referencia
     
     .row.align-items-center.mb-4
-      .col-lg-2.col-md-7.col-10.mb-4(data-aos="fade-right")
+      .col-lg-2.col-md-3.col-7.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imagref.svg', alt='')
-      .col-lg-10(data-aos="fade-left")
+      .col-lg-10.col-md-9(data-aos="fade-left")
         p Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos.
     
     p(data-aos="fade") Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar fabricante o tipo se software, para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
@@ -354,18 +354,18 @@
       h3.mb-0 Modelo de referencia TCP /IP
 
     .row.align-items-center.mb-4
-      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imag04.svg', alt='')
       .col-lg-8(data-aos="fade-left")
         p Fue el primer modelo de protocolo en capas para comunicaciones de red. Fue desarrollado a principios de la década de los 70 por el departamento de defensa de los EEUU, y se conoce con el nombre de modelo de Internet, su objetivo fue el de crear una red de comunicaciones que funcionara incluso en condiciones de guerra.
         .cajon.color-secundario.bg-9.p-4.mb-4
-          p.mb-4 Aunque el modelo OSI es universalmente reconocido, el estándar histórica y técnicamente reconocido para Internet es el modelo TCP/IP (Protocolo de Control de Transferencia / Protocolo de Internet).
-          p.mb-4 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
+          p Aunque el modelo OSI es universalmente reconocido, el estándar histórica y técnicamente reconocido para Internet es el modelo TCP/IP (Protocolo de Control de Transferencia / Protocolo de Internet).
+          p.mb-0 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
 
     p.mb-4(data-aos="fade") El modelo consta de cuatro capas como se observa en la figura a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-6
+      .col-lg-6.col-md-7.col-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span  Modelo de referencia TCP/IP
@@ -381,9 +381,9 @@
     p.mb-4(data-aos="fade") Las comunicaciones en general requieren de una serie de elementos y actores que intervienen dentro de los cuales podemos encontrar:
 
     .row.justify-content-center.align-items-center
-      .col-8.col-lg-4(data-aos="fade-right")
+      .col-lg-4.d-lg-flex.d-none(data-aos="fade-right")
         img.mb-4(src="@/assets/curso/temas/imag08.svg")
-      .col-12.col-lg-8(data-aos="fade-left")
+      .col-10.col-lg-8.col-md-10(data-aos="fade-left")
         .row.justify-content-center.mb-5
           .col-lg-7
             SlyderF.t1-1
@@ -457,14 +457,14 @@
     p.mb-4(data-aos="fade") En la figura que se encuentra a continuación, se evidencian algunos ejemplos de los protocolos que son usados en los servicios que normalmente utilizamos en la comunicación entre las redes de datos.
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-6
+      .col-lg-6.col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span  Ejemplos de protocolos
       .row.justify-content-center
-        .col-lg-6.mb-4
+        .col-lg-6.col-md-10.mb-4
           img.mb-3(src="@/assets/curso/temas/imag11.svg" alt="La imagen ilustra el ciclo de comunicación. En la parte superior del gráfico, hay dos figuras humanas etiquetadas como Emisor y Receptor. Existen flechas que indican un flujo de información entre el emisor y el receptor. Debajo, en el centro, se destaca una sección con tres componentes clave de este ciclo de comunicación: Mensaje, Código, y Canal. Estos elementos están representados dentro de una especie de diagrama de flujo o proceso cíclico que sugiere que el mensaje es codificado y transmitido a través de un canal desde el emisor hasta el receptor. ")
-      .col-lg-6.mb-4
+      .col-lg-6.col-md-10.mb-4
         img.mb-3(src="@/assets/curso/temas/tabla.svg" alt="La imagen Suite de protocolos según el modelo de referencia. Es un cuadro comparativo entre dos modelos de referencia de redes de computadoras: el Modelo OSI y el Modelo TCP/IP. Ambos modelos se utilizan para entender y diseñar el proceso de comunicación en las redes. En la izquierda, el Modelo OSI se divide en siete capas, con ejemplos en el centro que son conjunto del protocolo: aplicación, presentación, sesión: HTTP, DNS, DHCP, FTP. Transporte: TCP, UDP. Red: IPv4, IPv6, ICMPv4, ICMPv6. Enlace de datos y física: PPP, retransmisión de tramas, Ethernet. En la derecha, el Modelo TCP/IP está simplificado en cuatro capas, alineadas con las del Modelo OSI: aplicación, transporte, red, enlace de datos. Cada capa del Modelo OSI se relaciona con su equivalente en el Modelo TCP/IP, aunque el Modelo TCP/IP tiene menos capas y es más abstracto.")
         figcaption 
           p.mb-0 #[b Nota.] https://interpolados.files.wordpress.com/2017/03/17.png 
@@ -504,7 +504,7 @@
       h3.mb-0 Medios de transmisión
     
     .row.align-items-center.mb-4
-      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imag15.svg', alt='')
       .col-lg-8(data-aos="fade-left")
         p Para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos. Los medios de transmisión se pueden categorizar en dos grandes tipos que son los medios guiados y no guiados.
@@ -512,20 +512,20 @@
           p.mb-4 Los medios guiados conducen (guían) las señales a través de un camino físico, tal como se muestra en la figura 3, dentro de los cuales podemos encontrar:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-12.col-md-6.col-lg-3
+      .col-12.col-md-6.col-lg-3.mb-3.mb-md-0
         .tarjeta.tarjeta_blue.p-4.h-100
           .row.align-items-center.justify-content-between
             .col-6.mb-3
               h4.text2 Fibra óptica
-            .col-3.mb-3 
+            .col-2.col-md-3.mb-3 
               img(src='@/assets/curso/temas/icono15.svg' alt='')
           p.text-white.mb-0 Las señales que transportan la fibra óptica corresponden a pulsos de luz, no eléctricos.
-      .col-12.col-md-6.col-lg-3
+      .col-12.col-md-6.col-lg-3.mb-3.mb-md-0
         .tarjeta.tarjeta_blue.p-4.h-100
           .row.align-items-center.justify-content-between
             .col-6.mb-3
               h4.text2 Cobre (Trenzado o coaxial)
-            .col-3.mb-3 
+            .col-2.col-md-3.mb-3 
               img(src='@/assets/curso/temas/icono16.svg' alt='')
           p.text-white.mb-0 Las señales que transportan el cobre son impulsos eléctricos.
       
@@ -549,52 +549,52 @@
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico1.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Radiofrecuencias    
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico2.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Bluetooth    
         .row
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico3.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Microondas    
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico4.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Wifi
         .row
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico5.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Infrarojos    
           .col-md-6.mb-3
             .tarjeta.bg9
               .row.align-items-center
-                .col-md-4
+                .col-md-4.col-4
                   .tarjeta.bg-white.borde-gris.p-3
                     img.h-35(src="@/assets/curso/temas/t1/t1-1_ico6.svg" alt="")
-                .col-md-8
+                .col-md-8.col-8
                   h3.mb-0.text-center Satelital
       .col-12.col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src="@/assets/curso/temas/imag18.svg" alt="")
@@ -614,15 +614,15 @@
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-4 Como ya hemos mencionado, las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos, de tal manera que se pueda acceder a dispositivos y recursos compartidos, cuando indicamos los recursos, nos referimos a todos esos elementos tanto hardware como software que pueden compartidos y utilizados por los diferentes dispositivos conectados, estos recursos pueden ser desde el punto de vista del hardware:
         .row.justify-content-center
-          .col-md-4.mb-3 
+          .col-md-4.col-6.mb-3 
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/impresora.svg' alt='')
               h5.mb-0.text-cemter Impresora
-          .col-md-4.mb-3
+          .col-md-4.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/escaner.svg' alt='')
               h5.mb-0 Escaner
-          .col-md-4.mb-3
+          .col-md-4.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/almacenamiento.svg' alt='')
               h5.mb-0 Almacenamiento
@@ -635,34 +635,34 @@
       .col-md-6.col-lg-3.mb-3
         .tarjeta.bg10
           .row.align-items-center
-            .col-md-4
+            .col-md-4.col-4
               .tarjeta.bg-white.borde-gris.p-3
                 img.h-45(src="@/assets/curso/temas/t1/t1-1_ico2_1.svg" alt="")
-            .col-md-8
+            .col-md-8.col-8
               h3.mb-0.text-center.text-white Archivos   
       .col-md-6.col-lg-3.mb-3
         .tarjeta.bg10
           .row.align-items-center
-            .col-md-4
+            .col-md-4.col-4
               .tarjeta.bg-white.borde-gris.p-3
                 img.h-45(src="@/assets/curso/temas/t1/t1-1_ico2_2.svg" alt="")
-            .col-md-8
+            .col-md-8.col-8
               h3.mb-0.text-center.text-white Bases de datos 
       .col-md-6.col-lg-3.mb-3
         .tarjeta.bg10
           .row.align-items-center
-            .col-md-4
+            .col-md-4.col-4
               .tarjeta.bg-white.borde-gris.p-3
                 img.h-45(src="@/assets/curso/temas/t1/t1-1_ico2_3.svg" alt="")
-            .col-md-8
+            .col-md-8.col-8
               h3.mb-0.text-center.text-white Aplicaciones 
       .col-md-6.col-lg-3.mb-3
         .tarjeta.bg10
           .row.align-items-center
-            .col-md-4
+            .col-md-4.col-4
               .tarjeta.bg-white.borde-gris.p-3
                 img.h-45(src="@/assets/curso/temas/t1/t1-1_ico2_4.svg" alt="")
-            .col-md-8
+            .col-md-8.col-8
               h3.mb-0.text-center.text-white Servicios 
 
 
@@ -688,7 +688,7 @@
       .h2 1.3 La evolución de la informática en la nube
     
     .row.align-items-end.mb-4
-      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/compu.svg', alt='')
       .col-lg-8(data-aos="fade-left")
         p Si bien la computación en la nube es un término que se popularizó como un nuevo paradigma en el acceso a servicios e infraestructura en los años 2008 y 2009, desde la década del 60 ya se hablaba de este paradigma y, es a John McCarthy a quien se le atribuye la definición y el concepto tanto de computo en la nube como el de inteligencia artificial.
@@ -703,10 +703,49 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Los orígenes del término “nube”, comúnmente se asocian al término que se derivó de una metáfora que tomaba como base al dibujo de nubes que se utilizaban en el pasado para representar a la red telefónica, y que posteriormente algunos comenzaron a representar al Internet.
     
-    h5(data-aos="fade") Podemos resumir la evolución en las siguientes fases:
+    h5.mb-4(data-aos="fade") Podemos resumir la evolución en las siguientes fases:
+    
+    .row.fondo-t1.align-items-center.py-4.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center
 
-
-
+          .row.mb-5.mb-md-4.mb-lg-0
+            .col-lg-1.col-img.d-none.d-lg-flex
+              img(src='@/assets/curso/temas/t1/lineaTiempo.svg', alt='')
+              .linea_dots
+            .col-lg-8.pt-md-4.pb-lg-4
+              h5 Primera Etapa- Década de los 60
+              p Joseph Carl Robnett Licklider informático estadunidense, conceptualiza por primera vez la idea y concepto de la computación en la nube.  
+            .col-lg-3.col-md-8.col-10
+              img(src='@/assets/curso/temas/t1/lineaTiempo_img1.png', alt='')
+          .row
+            .col-lg-1.col-img.d-none.d-lg-flex
+              img(src='@/assets/curso/temas/t1/lineaTiempo.svg', alt='')
+              .linea_dots
+            .col-lg-11
+              .row.pt-md-4
+                .col-lg-9
+                  h5 Segunda Etapa- Inicia sobre los 90 y va hasta 2006
+                  p Empieza y se desarrolla el proceso de masificación del acceso a internet, pasando a ser una tecnología exclusiva, costosa y de acceso limitado para pocos, posteriormente se popularizó, facilitando el acceso cada vez, a más empresas, este mecanismo permitió que a través de internet se originara lo que hoy conocemos con el término de aplicaciones como servicio.
+                  .cajon.color-custom.bg-9.p-4.mb-4
+                    p.mb-0 Dentro de esta etapa podemos destacar como uno de los mayores avances computacionales cuando se afianzó el concepto de virtualización a finales de esa década, nace Salesforce empresa que desarrolla la primera ola de nube cuando propone ofrecer aplicaciones empresariales a través de un acceso web sencillo y simple.
+                .col-lg-3.col-md-8.col-10.mb-3.mb-lg-0
+                  img(src='@/assets/curso/temas/t1/lineaTiempo_img2.png', alt='')
+              p.pb-4 Si bien en esta etapa no se había consolidado la computación en la nube, la infraestructura, tecnologías y desarrollo tecnológico propio del internet fue fundamental para el crecimiento y evolución a lo que hoy conocemos como computación en la nube.              
+          .row.mb-4
+            .col-lg-1.col-img.d-none.d-lg-flex
+              img(src='@/assets/curso/temas/t1/lineaTiempo.svg', alt='')
+              .linea_dots
+            .col-lg-11.pt-md-4
+              h5 Tercera Etapa – Reconocida históricamente en el 2007
+              p Se desarrolla la tecnología de poner “línea” (internet) en toda la plataforma e infraestructura tecnológica requerida por una empresa, incluyendo hardware, software e internetworking.
+              .row
+                .col-lg-9
+                  .cajon.color-custom.bg-9.p-4.mb-4
+                    p.mb-0 Nacen las grandes empresas como Google,  Amazon AWS, Apple Cloud, Microsoft Azure, Alibaba Cloud, que trabajan a partir del uso de internet y de servidores centralizados, con facilidades de acceso a servicios e infraestructura de manera remota, descentralizada y por demanda.
+                  p La computación en la nube en la última década pasó de ser el servicio que grandes empresas de tecnologías ofrecían como una alternativa tecnológica a sus clientes, para convertirse en un factor preponderante en la transformación digital y adopción de buenas prácticas que toda empresa necesita, la cuarta revolución industrial, la popularización y cada vez más necesaria adopción de tecnologías como IoT, IA, Big Data, Machine Learning entre otros hace necesario que se migre y se adopten estos servicios en la nube, ya no solo desde los servicios tradicionales si no que a medida que se van adoptando estas tecnologías irán surgiendo y desarrollando una nueva oferta de servicios que transforman y mejoran los procesos de negocio.
+                .col-lg-3.col-md-8.col-10
+                  img(src='@/assets/curso/temas/t1/lineaTiempo_img3.png', alt='')
 
 
 
@@ -720,24 +759,24 @@
         p.mb-4 La computación en la nube permite el uso de recursos y servicios tecnológicos a través de la Red en este caso internet, la nube da la posibilidad de que cada empresa pueda acceder a los servicios requeridos es decir no todos necesitaran o utilizaran los mismos servicios, las tecnologías de la información, y las comunicaciones se han convertido en un factor potenciador y necesario para que las empresas sin importar el tipo, sino que funcionen de una manera eficaz y efectiva de acuerdo a su core de negocio, aunque en general los recursos de TI los podemos clasificar en tres componentes, como se ve en la figura 5.
         .cajon.color-custom.p-4.mb-4
           p.mb-0 Estos componentes de igual manera requieren una serie de tareas asociadas, estas son:
-        .row.justify-content-center
-          .col-md-3.mb-3 
+        .row.justify-content-center.mb-4.mb-lg-0
+          .col-md-3.col-6.mb-3 
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/t1/t1-4_ico1.svg' alt='')
               h5.mb-0.text-cemter Adquisición
-          .col-md-3.mb-3
+          .col-md-3.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/t1/t1-4_ico2.svg' alt='')
               h5.mb-0 Configuración
-          .col-md-3.mb-3
+          .col-md-3.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/t1/t1-4_ico3.svg' alt='')
               h5.mb-0 Operación
-          .col-md-3.mb-3
+          .col-md-3.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/t1/t1-4_ico4.svg' alt='')
               h5.mb-0 Mantenimiento
-      .col-12.col-lg-4.mb-4(data-aos="fade-left")
+      .col-10.col-md-7.col-lg-4.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 5.
           span Componentes de TI
@@ -749,7 +788,7 @@
     .bg2.mb-4(data-aos="fade-down")
       SlyderA(tipo="b").p-4
         .row.justify-content-around
-          .col-md-5
+          .col-md-5.mb-3.mb-md-0
             img(src='@/assets/curso/temas/Slider1.svg', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Nivel de infraestructura
@@ -784,7 +823,7 @@
           .col-md-5
             img(src='@/assets/curso/temas/Slider2.svg', alt='')
         .row.justify-content-around
-          .col-md-5
+          .col-md-5.mb-3.mb-md-0
             img(src='@/assets/curso/temas/Slider3.svg', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Plataformas de desarrollo
@@ -812,13 +851,13 @@
     p.mb-4(data-aos="fade") A continuación, se ilustra el modelo de Bloques y sus diferentes niveles.
 
     .row.justify-content-center(data-aos="fade-down")
-      .col-lg-5.col-md-9
+      .col-lg-5.col-10.col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
           span  Modelo de Bloques de creación en la Nube
       .row.justify-content-center
-        .col-lg-5.col-md-9.mb-4(data-aos="fade")
-            img.mb-3(src="@/assets/curso/temas/figura6.svg" alt="La imagen muestra un diagrama estructurado en capas superpuestas que representan la jerarquía de componentes en la computación en la nube. En la parte superior, hay un bloque denominado Software de aplicación, que indica el nivel más alto del modelo y posiblemente se refiere a las aplicaciones disponibles para los usuarios finales. El siguiente nivel hacia abajo es un bloque titulado Plataformas de desarrollo, que sugiere herramientas y entornos para crear software. El tercer bloque, Uso compartido de recursos compartidosen la nube. En la base se encuentra el bloque Infraestructura, que sería la capa fundamental del modelo y probablemente implica los recursos físicos y de red que sostienen la nube. Cada bloque está representado por líneas paralelas que simulan capas o ladrillos, lo que ayuda a visualizar la idea de que son componentes constructivos de un sistema de nube completo.")
+        .col-lg-5.col-10.col-md-8.mb-4(data-aos="fade")
+          img.mb-3(src="@/assets/curso/temas/figura6.svg" alt="La imagen muestra un diagrama estructurado en capas superpuestas que representan la jerarquía de componentes en la computación en la nube. En la parte superior, hay un bloque denominado Software de aplicación, que indica el nivel más alto del modelo y posiblemente se refiere a las aplicaciones disponibles para los usuarios finales. El siguiente nivel hacia abajo es un bloque titulado Plataformas de desarrollo, que sugiere herramientas y entornos para crear software. El tercer bloque, Uso compartido de recursos compartidosen la nube. En la base se encuentra el bloque Infraestructura, que sería la capa fundamental del modelo y probablemente implica los recursos físicos y de red que sostienen la nube. Cada bloque está representado por líneas paralelas que simulan capas o ladrillos, lo que ayuda a visualizar la idea de que son componentes constructivos de un sistema de nube completo.")
 
     
     Separador
@@ -828,9 +867,9 @@
     p.mb-4(data-aos="fade") Para acceder a los servicios de computación en la nube existen varios modelos de entrega o despliegue de la nube los cuales pueden ser, veamos:
 
     .row.justify-content-around.align-items-center
-      .col-8.col-lg-5.mb-4(data-aos="fade-right")
+      .col-8.col-lg-5.d-none.d-lg-flex.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/temas/imag23.svg")
-      .col-12.col-lg-5.mb-4(data-aos="fade-left")
+      .col-10.col-lg-5.col-md-8.mb-4(data-aos="fade-left")
         SlyderF.t1-1
           .tarjeta.borde-gris
             .row.justify-content-center
@@ -1040,10 +1079,45 @@
     p.mb-4(data-aos="fade") A continuación, se muestra una tabla resumen con los principales servicios ofrecidos por cada uno de los proveedores antes mencionados.
 
     .row.justify-content-center.mb-5(data-aos="fade-down") 
-      .col-lg-8
+      .col-lg-9
         .tarjeta.tarjeta--gris.p-4
           .bg-white.p-3
-
+            .tabla-a.color-primario.mb-5 
+              table.t1-6.text-center
+                tbody
+                  tr
+                    td 
+                    td 
+                      img.m-auto.w-50(src='@/assets/curso/temas/t1/Amazon_Web_Services_Logo.png' alt='')
+                    td
+                      img.m-auto.w-75(src='@/assets/curso/temas/t1/Microsoft_Azure_Logo.png' alt='')
+                    td
+                      img.m-auto.w-75(src='@/assets/curso/temas/t1/Google_Cloud.png' alt='')
+                  tr
+                    td.text-right.br Compute:
+                    td.br.bb EC2 Instance
+                    td.br.bb Virtual Machine (VM)
+                    td.bb Compute Engine VMs
+                  tr
+                    td.text-right.br Object Storage
+                    td.br.bb S3
+                    td.br.bb Blob Storage
+                    td.bb Cloud Storage
+                  tr
+                    td.text-right.br Logical Data Centre:
+                    td.br.bb VPC
+                    td.br.bb VNet
+                    td.bb VPC
+                  tr
+                    td.text-right.br Private Connectivity (L2):
+                    td.br.bb Direct Connect
+                    td.br.bb ExpressRoute
+                    td.bb Interconnect
+                  tr
+                    td.text-right.br Gateways:
+                    td.br TGW, VGW, DGW
+                    td.br VNet Gateway
+                    td Cloud Router
 
 
 
