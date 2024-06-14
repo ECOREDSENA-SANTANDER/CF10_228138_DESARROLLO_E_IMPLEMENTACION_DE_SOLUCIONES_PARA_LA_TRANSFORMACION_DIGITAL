@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Generalidades de la computación en la Nube',
     descripcionCurso:
-      'La computación en la nube es una tecnología cada vez con mayor uso e impacto en el despliegue y acceso a servicios toda vez que facilita el acceso remoto desde cualquier parte del mundo a través  de tecnologías de internet a procesamiento y almacenamiento de datos, en el presente componente formativo hablaremos de sus características, generalidades y conceptos más importantes.',
+      'La computación en la nube es una tecnología cada vez con mayor uso e impacto en el despliegue y acceso a servicios toda vez que facilita el acceso remoto desde cualquier parte del mundo a través de tecnologías de internet a procesamiento y almacenamiento de datos, en el presente componente formativo hablaremos de sus características, generalidades y conceptos más importantes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -157,7 +157,7 @@ export default {
     {
       tema: 'Fundamentos de los servicios TI en la nube',
       referencia:
-        'Amanecer en las redes [video] YouTube. Accedido 19  noviembre  2021',
+        'Amanecer en las redes [video] YouTube. Accedido 19 noviembre 2021 ',
       tipo: 'Video',
       link: 'https://youtu.be/D8YG2zfdag0',
     },
@@ -165,12 +165,12 @@ export default {
   glosario: [
     {
       termino: 'Azure',
-      significado: 'Servicios de computación en la nube de Microsoft',
+      significado: 'Servicios de computación en la nube de Microsoft.',
     },
     {
       termino: 'AWS',
       significado:
-        'Amazon Web Services: servicios de cloud ofrecidos por Amazon',
+        ' Amazon Web Services: servicios de cloud ofrecidos por Amazon.',
     },
     {
       termino: 'CapEx',
@@ -179,11 +179,11 @@ export default {
     },
     {
       termino: 'GCP',
-      significado: ' Google Cloud Platform',
+      significado: ' Google Cloud Platform.',
     },
     {
       termino: 'ISO',
-      significado: 'Organización de estándares internacionales',
+      significado: ' Organización de estándares internacionales.',
     },
     {
       termino: 'Medio de transmisión',
@@ -191,7 +191,7 @@ export default {
         'Para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos.',
     },
     {
-      termino: 'Networking',
+      termino: '<em>Networking</em>',
       significado:
         'Trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos que permiten potenciar y maximizar el potencial de las redes de datos.',
     },
@@ -202,7 +202,7 @@ export default {
     },
     {
       termino: 'OSI',
-      significado: 'Interconexión de sistemas abiertos',
+      significado: ' Interconexión de sistemas abiertos.',
     },
     {
       termino: 'Protocolo',
@@ -216,7 +216,7 @@ export default {
     },
     {
       termino: 'TCP/IP',
-      significado: 'Protocolo de control de transmisión/ Protocolo IP',
+      significado: ' Protocolo de control de transmisión/ Protocolo IP.',
     },
   ],
   referencias: [
@@ -288,18 +288,18 @@ export default {
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de gestión industrial',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Asesor Pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Revisión y corrección de estilo',
+          cargo: 'Revisión y Corrección de Estilo',
           centro:
             'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
@@ -315,11 +315,11 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: '',
+          nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animador y Producción audiovisual',
           centro: 'Regional Santander - Centro Agroturístico',
         },

@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Emparejamiento entre término y definición 
-        p.mb-4 Afianzar algunos de los  conceptos más importantes de la computación en la nube. 
+        p.mb-4 Afianzar algunos de los conceptos más importantes de la computación en la nube.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

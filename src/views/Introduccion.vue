@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-4 Le damos la bienvenida al componente formativo #[b “Generalidades de computación en la nube”]. Para comenzar el recorrido por el mismo, visite el recurso didáctico que se muestra a continuación:
+    p.mb-4 Le damos la bienvenida al componente formativo #[b “Generalidades de computación en la nube”]. Para comenzar el recorrido por el mismo, visite el recurso didáctico que se muestra a continuación: 
     figure(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
