@@ -26,7 +26,7 @@
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/t2/imag02.png')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Son muchas las ventajas que ofrece la computación en la nube,de ahí la importancia y popularidad que ha venido logrando, podemos hablar de una mejora económica, la simplificación o disminución de la complejidad en la administración de los recursos de TI, la escalabilidad, la flexibilidad, y el alto impacto en la conservación del planeta por el uso mejorado y la reducción de la huella de carbono, a continuación, se mencionan de manera muy general estas ventajas: 
+            p.mb-0 Son muchas las ventajas que ofrece la computación en la nube, de ahí la importancia y popularidad que ha venido logrando, se puede hablar de una mejora económica, la simplificación o disminución de la complejidad en la administración de los recursos de TI, la escalabilidad, la flexibilidad, y el alto impacto en la conservación del planeta por el uso mejorado y la reducción de la huella de carbono, a continuación, se mencionan de manera muy general estas ventajas: 
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade")
       .col-lg-10.col-12
@@ -53,14 +53,14 @@
                 span.mb-0 En el caso de las #[em startups] toma mayor importancia porque, al ceder recursos de proceso en concesión, se benefician de reducir el costo inicial y reducir el tiempo de comercialización al crear y poner sus ofertas a disposición del público general.
           p(numero="2" titulo="Administración simplificada de ti") Esta es una ventaja muy importante ya que no se requiere disponer de tiempo, recursos y personal para configurar, usar y mantener los recursos e infraestructura tecnológica de la organización, estos son funciones que son asumidas por el proveedor de servicios de #[em Cloud] y es un factor diferencial en la oferta de valores ofrecidos por los diferentes proveedores al momento de cotizar o adquirir servicios de nube.
           p(numero="3" titulo="Escalabilidad") En la computación tradicional el proceso de adquirir, configurar y poner en funcionamiento recursos de TI suele ser un proceso demorado y no tan ágil, por el contrario los proveedores de servicios #[em Cloud] pueden realizar aprovisionamiento de recursos a medida de la necesidad de cada empresa en cuestión de minutos o horas según lo requerido, esta característica permite que el cliente pueda crecer o decrecer verticalmente según la demanda, esto permite el ahorro de dinero, las nubes tienen una importante característica denominada elasticidad, donde los recursos se pueden aprovisionar y desaprovisionar de forma dinámica o mediante programación para adaptarse a las cargas de trabajo requeridas.
-          p(numero="4" titulo="Flexibilidad") Los proveedores de servicios de #[em Cloud] hoy, tienen la posibilidad de ofrecer servicios flexibles, elásticos y modulares que serán provisionados de acuerdo a la necesidad particular de cada cliente que incluye diferentes plataformas tecnológicas, y diferentes sistemas operativos personalizando las instancias, máquinas virtuales o contenedores de acuerdo a cada necesidad específica.
+          p(numero="4" titulo="Flexibilidad") Los proveedores de servicios de #[em Cloud ] hoy, tienen la posibilidad de ofrecer servicios flexibles, elásticos y modulares que serán provisionados de acuerdo a la necesidad particular de cada cliente que incluye diferentes plataformas tecnológicas, y diferentes sistemas operativos personalizando las instancias, máquinas virtuales o contenedores de acuerdo a cada necesidad específica.
           p(numero="5" titulo="Alto impacto en la conservación del planeta")  Gracias a la informática en la nube se ha mejorado el acceso a los recursos, pues se comparten recursos físicos entre múltiples clientes a través de tecnologías como la virtualización, y los servidores. Ahora se consolidan estos como instancias del sistema operativo que comparten los mismos recursos físicos disponibles, lo que conduce a un ahorro global en energía y refrigeración y reduce la huella de carbono.       
           p(numero="6" titulo="Implementación rápida y global") Al tener una presencia global, todos los proveedores de servicios de #[em Cloud] facilitan el despliegue y presencia rápida y con presencia global, las pequeñas empresas, emprendimientos y #[em startups], pueden llegar más fácilmente a nuevos mercados y competir con otras empresas ya establecidas.
     
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-10
         .cajon.align-items-center.color-custom.p-4
-          p.mb-0 Aunque es conocido que los servicios en la nube facilitan el trabajo remoto y ofrecen ciertos niveles de protección, no se debe desconocer algunas desventajas de #[em Cloud computing] relacionados principalmente con los siguientes.
+          p.mb-0 Aunque es conocido que los servicios en la nube facilitan el trabajo remoto y ofrecen ciertos niveles de protección, no se debe desconocer algunas desventajas de #[em Cloud computing] relacionados principalmente con los siguientes:
     
     .row.justify-content-center.d-none.d-md-flex(data-aos="fade-down")
       .col-12.col-lg-10
@@ -111,7 +111,7 @@
       .col-lg-2.col-md-3.col-9.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imagref.svg', alt='')
       .col-lg-10.col-md-9(data-aos="fade-left")
-        p La informática en la nube nos lleva a lograr tener una transición del modelo de negocio en cuanto a TI se refiere, pasando de CapEx a OpEx. El concepto OpEx son inversiones o gastos recurrentes a corto plazo, lo que permite a las organizaciones agilidad para usar esos recursos financieros haciendo inversiones mucho más rentables. 
+        p La informática en la nube nos lleva a lograr tener una transición del modelo de negocio en cuanto a TI se refiere, pasando de #[em CapEx] a #[em OpEx.] El concepto #[em OpEx ]son inversiones o gastos recurrentes a corto plazo, lo que permite a las organizaciones agilidad para usar esos recursos financieros haciendo inversiones mucho más rentables. 
     
 
     Separador
@@ -122,7 +122,7 @@
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/imag04.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p En el caso de los proveedores de servicios de #[em Cloud] sucede lo contrario que con el cliente, ellos requieren más CapEx toda vez que deben de hacer grandes inversiones en infraestructura creando y dotando más Centros de Datos con tecnologías confiables, de alta disponibilidad y a unos costos que puedan ser amortizados o administrados a partir de tener más usuarios utilizando su infraestructura.
+        p En el caso de los proveedores de servicios de #[em Cloud] sucede lo contrario que con el cliente, ellos requieren más #[em CapEx] toda vez que deben de hacer grandes inversiones en infraestructura creando y dotando más Centros de Datos con tecnologías confiables, de alta disponibilidad y a unos costos que puedan ser amortizados o administrados a partir de tener más usuarios utilizando su infraestructura.
         .cajon.color-custom.bg-9.p-4.mb-4
           p.mb-0 Para el proveedor el camino es crear grandes centros de datos dotados con todas las características y bondades de la computación en la nube a fin de poder entregar y ofrecer un gran volumen de clientes nuevos que hagan rentable la inversión.
     
@@ -180,19 +180,19 @@
             | Métodos para medir el rendimiento (Indicadores de medición). 
           li 
             i.fas.fa-angle-right
-            | Protocolos para administrar problemas (métodos y canales de atención y soporte a usuarios, tiempos de respuesta y solución de incidentes)
+            | Protocolos para administrar problemas (métodos y canales de atención y soporte a usuarios, tiempos de respuesta y solución de incidentes).
           li 
             i.fas.fa-angle-right
-            | Una lista de tareas de cliente (responsabilidades)
+            | Una lista de tareas de cliente (responsabilidades).
           li 
             i.fas.fa-angle-right
-            | Garantías que debe respetar el proveedor de servicios
+            | Garantías que debe respetar el proveedor de servicios.
           li 
             i.fas.fa-angle-right
-            | Procedimientos necesarios para la recuperación ante desastres (continuidad del negocio)
+            | Procedimientos necesarios para la recuperación ante desastres (continuidad del negocio).
           li 
             i.fas.fa-angle-right
-            | Proceso y directivas con respecto a la terminación del contrato
+            | Proceso y directivas con respecto a la terminación del contrato.
 
 
     Separador
@@ -206,7 +206,7 @@
           .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
             img(src='@/assets/curso/temas/t2/imag05.svg', alt='')
           .col-lg-8(data-aos="fade-left")
-            p Las organizaciones en el desarrollo de su actividad o core de negocio reciben, generan, procesan o conservan información considerada como activos de la organización y tienen una afectación desde el plano económico o de negocio, de conocimiento o de propiedad intelectual en el momento de estar expuesta a posibles amenazas que puedan afectar lo antes mencionado.
+            p Las organizaciones en el desarrollo de su actividad o #[em core] de negocio reciben, generan, procesan o conservan información considerada como activos de la organización y tienen una afectación desde el plano económico o de negocio, de conocimiento o de propiedad intelectual en el momento de estar expuesta a posibles amenazas que puedan afectar lo antes mencionado.
             p Las amenazas a la seguridad en la computación en la nube van a depender de varios factores
             .tarjeta.bg10.p-4
               h4.text2 Amenazas
@@ -240,7 +240,7 @@
             img(src='@/assets/curso/temas/t2/imag10.svg', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Problemas generados por el uso de tecnologías compartidas
-            p Como ya mencionamos los proveedores de servicio hacen grandes inversiones de tipo CapEx a fin de lograr contar con una arquitectura que permita atraer y cada vez lograr prestar los servicios a más usuarios, ahora todos los usuarios comparten los mismos recursos tecnológicos lo que facilita el hecho de que si se tiene una falla de seguridad o una mala configuración en algún cliente pueda ocasionar que clientes de otras empresas puedan acceder a los recursos donde se presente la falla.
+            p Como ya mencionamos los proveedores de servicio hacen grandes inversiones de tipo #[em CapEx] a fin de lograr contar con una arquitectura que permita atraer y cada vez lograr prestar los servicios a más usuarios, ahora todos los usuarios comparten los mismos recursos tecnológicos lo que facilita el hecho de que si se tiene una falla de seguridad o una mala configuración en algún cliente pueda ocasionar que clientes de otras empresas puedan acceder a los recursos donde se presente la falla.
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Fuga o robo de información
@@ -277,7 +277,7 @@
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/imag15.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p Usualmente los grandes proveedores de servicios de computación en la nube, como Amazon, Microsoft y Google, contratan auditores externos para que supervisen y hagan las auditorías a sus plataformas en busca de disponibilidad y otros factores, como la seguridad y la confidencialidad de los datos.
+        p Usualmente los grandes proveedores de servicios de computación en la nube, como #[em Amazon], #[em Microsoft] y #[em Google], contratan auditores externos para que supervisen y hagan las auditorías a sus plataformas en busca de disponibilidad y otros factores, como la seguridad y la confidencialidad de los datos.
         .cajon.color-custom.bg14.p-4.mb-4
           p.mb-0 Los auditores externos o empresas contratadas generan informes de tipo SOC (Auditoría de los Controles de Servicio) el cual es un estándar internacional que permite evaluar los controles de seguridad de un proveedor y las amenazas de ciberseguridad.
         p Estos informes se dividen en diferentes niveles:   
@@ -309,7 +309,7 @@
       .col-lg-7(data-aos="fade-right")
         .cajon.color-custom.bg14.p-4.mb-4
           p.mb-0 Normalmente estos informes son privados, por lo menos SOC 1 y SOC 2 están disponibles solo para el cliente quien tiene contratado un acuerdo de nivel de servicio, mientras que el SOC 3 está disponible para el público.
-        p.mb-4 Los proveedores de servicios de computación en la nube suelen también ofrecer a sus clientes servicios de monitoreo y de esta manera pueden alertar a sus clientes casi en tiempo real si se presentan fallas como la caída de un servidor web, o la caída de una instancia o máquina virtual específica, si bien la disponibilidad de los servicios es responsabilidad del proveedor, el cliente busca alternativas de tolerancia a fallos y alta disponibilidad a fin de garantizar el correcto funcionamiento del servicio.
+        p.mb-4 Los proveedores de servicios de computación en la nube suelen también ofrecer a sus clientes servicios de monitoreo y de esta manera pueden alertar a sus clientes casi en tiempo real si se presentan fallas como la caída de un servidor #[em web], o la caída de una instancia o máquina virtual específica, si bien la disponibilidad de los servicios es responsabilidad del proveedor, el cliente busca alternativas de tolerancia a fallos y alta disponibilidad a fin de garantizar el correcto funcionamiento del servicio.
         p  Dada la naturaleza de los servicios en la nube, es necesaria la auditoría y la supervisión. Esto requiere la supervisión y evaluación en tiempo real para desencadenar una respuesta rápida que permita proteger el servicio y la reputación del cliente. 
       .col-lg-5.col-md-7.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/imag16.png', alt='')

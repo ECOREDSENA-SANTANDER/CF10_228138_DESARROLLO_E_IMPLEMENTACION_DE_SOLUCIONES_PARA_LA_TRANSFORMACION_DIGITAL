@@ -164,22 +164,22 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Azure',
-      significado: 'Servicios de computación en la nube de Microsoft.',
+      termino: '<em>Azure</em>',
+      significado: 'Servicios de computación en la nube de <em>Microsoft</em>.',
     },
     {
-      termino: 'AWS',
+      termino: '<em>AWS</em>',
       significado:
-        ' Amazon Web Services: servicios de cloud ofrecidos por Amazon.',
+        ' <em>Amazon Web Services</em>: servicios de cloud ofrecidos por Amazon.',
     },
     {
-      termino: 'CapEx',
+      termino: '<em>CapEx</em>',
       significado:
         'En los sistemas de TI es una inversión a largo plazo que inmoviliza una gran suma de dinero en una sola inversión.',
     },
     {
-      termino: 'GCP',
-      significado: ' Google Cloud Platform.',
+      termino: '<em>GCP</em>',
+      significado: ' <em>Google Cloud Platform</em>.',
     },
     {
       termino: 'ISO',
@@ -196,7 +196,7 @@ export default {
         'Trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos que permiten potenciar y maximizar el potencial de las redes de datos.',
     },
     {
-      termino: 'OpEx',
+      termino: '<em>OpEx</em>',
       significado:
         'Es un gasto recurrente que podría dotar a la compañía de la agilidad de usar los fondos en otras inversiones rentables.',
     },
@@ -303,6 +303,11 @@ export default {
           centro:
             'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
     {
@@ -335,11 +340,6 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
