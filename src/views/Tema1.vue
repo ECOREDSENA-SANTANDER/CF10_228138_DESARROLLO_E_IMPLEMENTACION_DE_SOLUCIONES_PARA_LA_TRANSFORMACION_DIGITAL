@@ -630,7 +630,7 @@
           .col-md-4.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/escaner.svg' alt='')
-              h5.mb-0 Escaner
+              h5.mb-0 #[em Scanner]
           .col-md-4.col-6.mb-3
             .caja2.p-3.h-100
               img.m-auto.mb-3.w-50(src='@/assets/curso/temas/almacenamiento.svg' alt='')
@@ -817,7 +817,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 8.
           span Componentes de TI
-        img(src="@/assets/curso/temas/imag22.svg" alt="La figura menciona 3 conceptos: software de aplicación, plataformas de desarrollo, infraestructura.")
+        img(src="@/assets/curso/temas/t1/fig8.svg" alt="La figura menciona tres conceptos: software de aplicación, plataformas de desarrollo, infraestructura.")
     
     p(data-aos="fade") Toda organización que requiera implementar cualquier solución de TI deberá desarrollar las anteriores tareas, si la organización tiene además sus propios desarrollos o procesos de desarrollo #[em in house], se debe agregar las tareas anteriormente mencionadas las plataformas de desarrollo.
     p.mb-4(data-aos="fade") En general los bloques de creación en la nube los podemos catalogar en 4 niveles que son:
@@ -893,8 +893,10 @@
           h5 Figura 9.
           span  Modelo de Bloques de creación en la Nube
       .row.justify-content-center
-        .col-lg-5.col-10.col-md-8.mb-4(data-aos="fade")
-          img.mb-3(src="@/assets/curso/temas/t1/fig9.svg" alt="La figura presenta, apilados uno sobre otro,  los siguientes nombres (comenzando en la base): Infraestructura, uso compartido de recursos, plataformas de desarrollo, software de aplicación")
+        .col-lg-5.col-10.col-md-8(data-aos="fade")
+          img.mb-2(src="@/assets/curso/temas/t1/fig9.svg" alt="La figura presenta, apilados uno sobre otro,  los siguientes nombres (comenzando en la base): Infraestructura, uso compartido de recursos, plataformas de desarrollo, software de aplicación")
+          figcaption
+            p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/3cJyHp
 
     
     Separador
