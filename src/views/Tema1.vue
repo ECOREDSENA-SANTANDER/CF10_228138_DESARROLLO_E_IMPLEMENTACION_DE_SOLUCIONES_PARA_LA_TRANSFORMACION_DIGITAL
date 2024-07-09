@@ -363,7 +363,7 @@
           p Aunque el modelo OSI es universalmente reconocido, el estándar histórica y técnicamente reconocido para Internet es el modelo TCP/IP (Protocolo de Control de Transferencia / Protocolo de Internet).
           p.mb-0 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
 
-    p.mb-4(data-aos="fade") El modelo consta de cuatro capas como se observa en la figura a continuación:
+    p.mb-4(data-aos="fade") El modelo consta de cuatro capas como se presenta en la figura a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.col-md-7.col-11
@@ -1010,7 +1010,7 @@
               .col-md-8.col-lg-8.mb-4
                 img.w-50(src='@/assets/curso/temas/azurelogo.svg', alt='')
                 .linea.my-3
-                p Es la nube de la empresa #[em Microsoft, Azure] es quizá la plataforma con crecimiento más rápido en el mercado de #[em Cloud], tiene más de 50 centros de datos distribuidos alrededor de más de 140 países (figura 11) a través de servicios como #[em Azure Stack] permite que una organización pueda crear su nube privada y posteriormente integrar a la nube pública de Azure y de esta manera poder interactuar con todas las bondades, características y servicios de #[em Azure].
+                p Es la nube de la empresa #[em Microsoft, Azure] es quizá la plataforma con crecimiento más rápido en el mercado de #[em Cloud], tiene más de 50 centros de datos distribuidos alrededor de más de 140 países (figura 11) a través de servicios como #[em Azure Stack] permite que una organización pueda crear su nube privada y posteriormente integrar a la nube pública de #[em Azure] y de esta manera poder interactuar con todas las bondades, características y servicios de #[em Azure].
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 11.  
             span  Regiones con Centros de Datos #[em Microsoft Azure]
