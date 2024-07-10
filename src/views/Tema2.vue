@@ -35,7 +35,7 @@
             ul.lista-ul--color.fa-ul
               li 
                 i.fas.fa-angle-right
-                | Un proceso de planeación de una compañía, junto con la infraestructura requerida para dar soporte a sus proceso misionales, requiere de 1 a 5 años. 
+                | Un proceso de planeación de una compañía, junto con la infraestructura requerida para dar soporte a sus procesos misionales, requiere de 1 a 5 años. 
               li 
                 i.fas.fa-angle-right
                 | Durante esta proyección en tiempo e inversión, es posible calcular la adquisición de los recursos planeados. 
@@ -51,9 +51,9 @@
               li 
                 i.fas.fa-angle-right
                 span.mb-0 En el caso de las #[em startups] toma mayor importancia porque, al ceder recursos de proceso en concesión, se benefician de reducir el costo inicial y reducir el tiempo de comercialización al crear y poner sus ofertas a disposición del público general.
-          p(numero="2" titulo="Administración simplificada de ti") Esta es una ventaja muy importante ya que no se requiere disponer de tiempo, recursos y personal para configurar, usar y mantener los recursos e infraestructura tecnológica de la organización, estos son funciones que son asumidas por el proveedor de servicios de #[em Cloud] y es un factor diferencial en la oferta de valores ofrecidos por los diferentes proveedores al momento de cotizar o adquirir servicios de nube.
+          p(numero="2" titulo="Administración simplificada de TI") Esta es una ventaja muy importante ya que no se requiere disponer de tiempo, recursos y personal para configurar, usar y mantener los recursos e infraestructura tecnológica de la organización, estos son funciones que son asumidas por el proveedor de servicios de #[em Cloud] y es un factor diferencial en la oferta de valores ofrecidos por los diferentes proveedores al momento de cotizar o adquirir servicios de nube.
           p(numero="3" titulo="Escalabilidad") En la computación tradicional el proceso de adquirir, configurar y poner en funcionamiento recursos de TI suele ser un proceso demorado y no tan ágil, por el contrario los proveedores de servicios #[em Cloud] pueden realizar aprovisionamiento de recursos a medida de la necesidad de cada empresa en cuestión de minutos o horas según lo requerido, esta característica permite que el cliente pueda crecer o decrecer verticalmente según la demanda, esto permite el ahorro de dinero, las nubes tienen una importante característica denominada elasticidad, donde los recursos se pueden aprovisionar y desaprovisionar de forma dinámica o mediante programación para adaptarse a las cargas de trabajo requeridas.
-          p(numero="4" titulo="Flexibilidad") Los proveedores de servicios de #[em Cloud ] hoy, tienen la posibilidad de ofrecer servicios flexibles, elásticos y modulares que serán provisionados de acuerdo a la necesidad particular de cada cliente que incluye diferentes plataformas tecnológicas, y diferentes sistemas operativos personalizando las instancias, máquinas virtuales o contenedores de acuerdo a cada necesidad específica.
+          p(numero="4" titulo="Flexibilidad") Los proveedores de servicios de #[em Cloud], hoy tienen la posibilidad de ofrecer servicios flexibles, elásticos y modulares que serán provisionados de acuerdo a la necesidad particular de cada cliente que incluye diferentes plataformas tecnológicas, y diferentes sistemas operativos personalizando las instancias, máquinas virtuales o contenedores de acuerdo a cada necesidad específica.
           p(numero="5" titulo="Alto impacto en la conservación del planeta")  Gracias a la informática en la nube se ha mejorado el acceso a los recursos, pues se comparten recursos físicos entre múltiples clientes a través de tecnologías como la virtualización, y los servidores. Ahora se consolidan estos como instancias del sistema operativo que comparten los mismos recursos físicos disponibles, lo que conduce a un ahorro global en energía y refrigeración y reduce la huella de carbono.       
           p(numero="6" titulo="Implementación rápida y global") Al tener una presencia global, todos los proveedores de servicios de #[em Cloud] facilitan el despliegue y presencia rápida y con presencia global, las pequeñas empresas, emprendimientos y #[em startups], pueden llegar más fácilmente a nuevos mercados y competir con otras empresas ya establecidas.
     
@@ -213,7 +213,7 @@
               p.text-white El tipo de servicio contratado según los SLA previamente establecidos entre proveedor y cliente donde se determinan las responsabilidades de cada parte.
               p.text-white.mb-0 El tipo de despliegue o puesta en producción de los servicios contratados.
     
-    p.mb-4(data-aos="fade") En términos generales son varias las amenazas que afectan la computación en la nube como podemos ver en el siguiente recurso educativo:
+    p.mb-4(data-aos="fade") En términos generales, son varias las amenazas que afectan la computación en la nube como se describen a continuación:
     
     .bg2(data-aos="fade-down")
       SlyderA(tipo="b").p-4
@@ -244,7 +244,7 @@
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Fuga o robo de información
-            p Esta se puede presentar por varias razones entre las cuales se pueden encontrar una mala configuración de seguridad como no cifrar o proteger las comunicaciones, uso de malware o de ingeniería social por parte de un delincuente, esto podría ser utilizado para conseguir información confidencial que pueda ser empleado por cualquier cliente o miembro de la organización con servicios en la nube.
+            p Esta se puede presentar por varias razones entre las cuales se pueden encontrar una mala configuración de seguridad como no cifrar o proteger las comunicaciones, uso de #[em malware] o de ingeniería social por parte de un delincuente, esto podría ser utilizado para conseguir información confidencial que pueda ser empleado por cualquier cliente o miembro de la organización con servicios en la nube.
           .col-md-5
             img(src='@/assets/curso/temas/t2/imag11.svg', alt='')
         .row.justify-content-around.align-items-center
@@ -255,8 +255,8 @@
             p Esta puede ser provocada por el descuido en el manejo de las credenciales de un usuario, por ataques de fuerza bruta, de ingeniería social lo que permitirá que un delincuente o extraño pueda ingresar suplantando a un usuario real y manipule o robe  información confidencial.
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Desconocimiento de tecnologias #[em Cloud]
-            p Al momento de hacer despliegue y configuración de servicios se requiere que la persona encargada de este proceso tenga el suficiente conocimiento y preparación en el entorno o proveedor en el cual se adquirieron los servicios de lo contrario puede llevar a q se configure políticas de seguridad y protección no eficaces.
+            h4 Desconocimiento de tecnologías #[em Cloud]
+            p Al momento de hacer despliegue y configuración de servicios se requiere que la persona encargada de este proceso tenga el suficiente conocimiento y preparación en el entorno o proveedor en el cual se adquirieron los servicios de lo contrario puede llevar a que se configuren políticas de seguridad y protección no eficaces.
           .col-md-5
             img(src='@/assets/curso/temas/t2/imag13.svg', alt='')
         .row.justify-content-around.align-items-center

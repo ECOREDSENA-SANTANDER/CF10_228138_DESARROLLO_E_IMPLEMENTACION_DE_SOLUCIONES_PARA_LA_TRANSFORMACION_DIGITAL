@@ -32,7 +32,7 @@
               img.d-none.d-lg-block(src='@/assets/curso/temas/comillas.svg' alt='' style='width:95px;margin: 0 -1rem').mb-0
     
     p(data-aos="fade") Durante los últimos años, la computación en la nube ha permitido que las empresas logren tener presencia corporativa en la #[em web], y que la adquisición de recursos tecnológicos informáticos sea una inversión económica muy cómoda o razonable a manera de pago por servicios. 
-    p.mb-4(data-aos="fade") Ahora no es necesario adquirir equipos o infraestructura física para suplir necesidades de organización, administración o mantenimiento. A continuación se detallan las diferentes tecnologías de computación en la nube:
+    p.mb-4(data-aos="fade") Ahora no es necesario adquirir equipos o infraestructura física para suplir necesidades de organización, administración o mantenimiento. A continuación, se detallan las diferentes tecnologías de computación en la nube:
 
     .row.justify-content-center.d-none.d-md-flex.mb-5(data-aos="fade-down")
       .col-lg-9
@@ -46,28 +46,28 @@
                 h4 Servicios de infraestructura
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 01
-            p.text-white.mb-0 Los servicios de infraestructura en la Nube, conocido como LaaS por sus siglas en inglés; se presentan como aplicaciones de autoservicio creadas para el acceso, control y gestión de infraestructuras remotas.
+            p.text-white.mb-0 Los servicios de infraestructura en la Nube, conocido como #[em IaaS] por sus siglas en inglés; se presentan como aplicaciones de autoservicio creadas para el acceso, control y gestión de infraestructuras remotas.
           .tarjeta.bg4.p-3(x="28%" y="50%" numero="")
             .row.space-between.img-infog1.align-items-center.text-white.mb-0
               .col-md-10.col-9
                 h4  Plataformas en la nube
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 02
-            p.text-white.mb-0 Las Plataformas en la Nube son tan flexibles y versátiles que se usan para desarrollar aplicaciones y sistemas complejos para impulsar los entornos virtuales. De hecho; los sistemas PaaS proporcionan marcos virtuales donde los especialistas desarrollan y personalizan sus sistemas los propietario y las aplicaciones.
+            p.text-white.mb-0 Las Plataformas en la Nube son tan flexibles y versátiles que se usan para desarrollar aplicaciones y sistemas complejos para impulsar los entornos virtuales. De hecho; los sistemas #[em PaaS] proporcionan marcos virtuales donde los especialistas desarrollan y personalizan sus sistemas los propietarios y las aplicaciones.
           .tarjeta.color-primario.p-3(x="51.7%" y="50%" numero="")
             .row.space-between.img-infog1.align-items-center.text-white.mb-0
               .col-md-10.col-9
                 h4 #[em Software] como servicio
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 03
-            p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como Software como Servicio(SaaS) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los SaaS representan el mayor mercado de servicios y sistemas en la Nube.
+            p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como #[em Software] como Servicio (#[em SaaS]) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los #[em SaaS] representan el mayor mercado de servicios y sistemas en la Nube.
           .tarjeta.bg4.p-3(x="76%" y="50%" numero="")
             .row.space-between.img-infog1.align-items-center.text-white.mb-0
               .col-md-10.col-9
                 h4 ¿Para quienes?
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 04
-            p.text-white.mb-0 Los LaaS están pensados para ingenieros de sistemas, PaaS para desarrolladores web y SaaS para los consumidores directos.
+            p.text-white.mb-0 Los #[em IaaS] están pensados para ingenieros de sistemas, #[em PaaS] para desarrolladores #[em web] y #[em SaaS] para los consumidores directos.
 
     .row.justify-content-center.d-flex.d-md-none.mb-5(data-aos="fade-down")
       .row.mb-2
@@ -96,7 +96,7 @@
               h4 #[em Software] como servicio
             .col-md-2.col-3
               h2.numeroTarjeta.mb-0 03
-          p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como Software como Servicio(SaaS) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los SaaS representan el mayor mercado de servicios y sistemas en la Nube.
+          p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como #[em Software] como Servicio (SaaS) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los SaaS representan el mayor mercado de servicios y sistemas en la Nube.
       .row.mb-2
         img.mb-n8.z-999.px-5(src='@/assets/curso/temas/t1/imgInfog1-4.svg')
         .tarjeta.bg4.p-3
@@ -205,13 +205,13 @@
       .col-lg-10.col-md-9(data-aos="fade-left")
         p Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos.
     
-    p(data-aos="fade") Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar fabricante o tipo se software. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
+    p(data-aos="fade") Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar fabricante o tipo se #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
     p.mb-4(data-aos="fade") Estos estándares son construidos por una serie de organizaciones que son las siguientes:
     
     .row.align-items-center.mb-5
       .col-lg-7.col-12.mb-5.mb-md-0(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="ISO (Organización Internacional de Normas)") ISO definió un modelo de referencia como estándar para posibilitar las comunicaciones electrónicas a nivel global, conocido como el modelo OSI (Interconexión de Sistemas Abiertos).
+          p(numero="1" titulo="ISO (Organización Internacional de Normas)") ISO definió un modelo de referencia como estándar para posibilitar las comunicaciones electrónicas a nivel global, conocido como el modelo #[em OSI] (Interconexión de Sistemas Abiertos).
           p(numero="2" titulo="IEEE (Instituto de ingenieros electrónicos y eléctricos)") Este organismo es encargado de fijar los estándares para los elementos físicos de una red, cables, conectores e interfaces.
           p(numero="3" titulo="ANSI (Instituto Nacional Americano de Normalización)") Es una organización sin fines de lucro que supervisa el desarrollo de estándares para productos, servicios, procesos y sistemas en los Estados Unidos.        
           p(numero="4" titulo="EIA (Asociación de Industrias Electrónicas)") Es una organización formada por la asociación de las compañías electrónicas y de alta tecnología de los Estados Unidos, cuya misión es promover el desarrollo de mercado y la competitividad de la industria de alta tecnología de los Estados Unidos con esfuerzos locales e internacionales de la política.
@@ -236,9 +236,9 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img.m-3(src='@/assets/curso/temas/piramide.svg')
+                img.m-3(src='@/assets/curso/temas/t1/piramide_sn.svg')
             
-            .tarjeta.tarjeta-blanca(x="52%" y="12%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="12%" numero="01")
               h5.bg-color-1 Física - Señalización y transmisión binaria
               .p-3.pt-2
                 h5.mb-5 Transmisión binaria: cables, conectores, voltajes, velocidades de datos
@@ -247,7 +247,7 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:1rem 6.4rem;")
                 p.mb-0 Los protocolos de capa física describen los medios mecánicos, eléctricos,  funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas para la transmisión de #[em bits] hacia un dispositivo de red y desde el.
-            .tarjeta.tarjeta-blanca(x="52%" y="25%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="25.2%" numero="02")
               h5.bg-color-1 Enlace de datos - Direccionamiento físico
               .p-3.pt-2
                 h5.mb-5 Acceso a los medios
@@ -256,7 +256,7 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:2.5rem 6.4rem; height: 140px;")
                 p.mb-0 Los productos de capa de enlace de datos describen los métodos para intercambiar tramas de datos entre dispositivos en un medio común.
-            .tarjeta.tarjeta-blanca(x="52%" y="37%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="37%" numero="03")
               h5.bg-color-1 Red - Determinación de ruta y direccionamiento lógico
               .p-3.pt-2  
                 h5.mb-5 Direccionamiento y mejor ruta
@@ -265,8 +265,8 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:2.5rem 6.4rem; height: 140px;")
                 p.mb-0 La capa de red, proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados.
-            .tarjeta.tarjeta-blanca(x="52%" y="48%" numero="")
-              h5.bg-color-1 Transporte - Conexión de extremo a extremo y confiabiidad
+            .tarjeta.tarjeta-blanca(x="52%" y="48%" numero="04")
+              h5.bg-color-1 Transporte - Conexión de extremo a extremo y confiabilidad
               .p-3.pt-2  
                 h5.mb-5 Conexiones de extremo a extremo
                   .pRelative_1
@@ -274,7 +274,7 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:2.5rem 6.4rem; height: 140px;")
                 p.mb-0 La capa de transporte, define los servicios para segmentar, transferir y rearmar los datos para las comunicaciones individuales entre dispositivos finales.
-            .tarjeta.tarjeta-blanca(x="52%" y="60%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="60.2%" numero="05")
               h5.bg-color-1 Sesión - Comunicación entre dispositivos de red
               .p-3.pt-2  
                 h5.mb-5 Comunicación entre #[em hosts]
@@ -283,7 +283,7 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:2.5rem 6.4rem; height: 140px;")
                 p.mb-0 La capa de sesión, proporciona servicios a la capa de presentación para organizar su diálogo y administrar el intercambio de datos.                
-            .tarjeta.tarjeta-blanca(x="52%" y="75%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="74.5%" numero="06")
               h5.bg-color-1 Presentación - Representación de datos y encriptación
               .p-3.pt-2  
                 h5.mb-5 Representación de datos
@@ -292,7 +292,7 @@
                       figure
                         img(src='@/assets/curso/temas/linea.svg' alt='' , style="width:7px; display:block; margin:2.5rem 6.4rem; height: 140px;")
                 p.mb-0 La capa de red, proporciona una representación común de los datos transferidos entre los servicios de la capa de aplicación.
-            .tarjeta.tarjeta-blanca(x="52%" y="91%" numero="")
+            .tarjeta.tarjeta-blanca(x="52%" y="91.4%" numero="07")
               h5.bg-color-1 Aplicación - Servicios de red a aplicaciones
               .p-3.pt-2  
                 h5.mb-5 Procesos de red a aplicaciones
@@ -358,10 +358,10 @@
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imag04.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p Fue el primer modelo de protocolo en capas para comunicaciones de red. Fue desarrollado a principios de la década de los 70 por el departamento de defensa de los EEUU, y se conoce con el nombre de modelo de Internet, su objetivo fue el de crear una red de comunicaciones que funcionara incluso en condiciones de guerra.
+        p Fue el primer modelo de protocolo en capas para comunicaciones de red. Fue desarrollado a principios de la década de los 70 por el departamento de defensa de los EE. UU., y se conoce con el nombre de modelo de Internet, su objetivo fue el de crear una red de comunicaciones que funcionara incluso en condiciones de guerra.
         .cajon.color-secundario.bg-9.p-4.mb-4
           p Aunque el modelo OSI es universalmente reconocido, el estándar histórica y técnicamente reconocido para Internet es el modelo TCP/IP (Protocolo de Control de Transferencia / Protocolo de Internet).
-          p.mb-0 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
+          p.mb-0 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la #[em suite] de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
 
     p.mb-4(data-aos="fade") El modelo consta de cuatro capas como se presenta en la figura a continuación:
 
@@ -429,7 +429,7 @@
                       h3.mb-2 Mensaje
                       p Elemento a transmitir. 
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 Todas las comunicaciones deben contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar requieren contar con un código o lenguaje común, que permita que puedan entenderse, ese estándar o lenguaje común es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos #[em hardware] y software que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
+          p.mb-0 Todas las comunicaciones deben contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar requieren contar con un código o lenguaje común, que permita que puedan entenderse, ese estándar o lenguaje común es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos #[em hardware] y #[em software] que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
 
 
     p.mb-4(data-aos="fade") Dependiendo de los servicios a los cuales accedemos a través de las redes de computadores será el protocolo que se deberá emplear en la comunicación entre el usuario que solicita y accede al servicio y el dispositivo quien se lo entrega, en general en la transmisión y recepción de los datos podemos encontrar dos grandes familias de protocolos que se resumen en:
@@ -481,7 +481,7 @@
           ImagenInfografica.color-secundario
             template(v-slot:imagen)
               figure
-                img(src="@/assets/curso/temas/imag12.svg" alt="La figura presenta un diagrama de flujo que conecta de manera secuencial los siguientes conceptos: solicitud de intercambio de texto, ServisioSMTP(protocolo TCP), puerto lógico(25), puerto físico(RJ-45), red local(LAN)")
+                img(src="@/assets/curso/temas/imag12.svg" alt="La figura presenta un diagrama de flujo que conecta de manera secuencial los siguientes conceptos: solicitud de intercambio de texto, Servisio SMTP (protocolo TCP), puerto lógico (25), puerto físico (RJ-45), red local (LAN)")
             
             .tarjeta.tarjeta-azul(x="59.5%" y="65.5%" numero="")
               .head_tar.mt-0.p-2
@@ -728,7 +728,7 @@
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/compu.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p Si bien la computación en la nube es un término que se popularizó como un nuevo paradigma en el acceso a servicios e infraestructura en los años 2008 y 2009, desde la década del 60 ya se hablaba de este paradigma y, es a John McCarthy a quien se le atribuye la definición y el concepto tanto de computo en la nube como el de inteligencia artificial.
+        p Si bien la computación en la nube es un término que se popularizó como un nuevo paradigma en el acceso a servicios e infraestructura en los años 2008 y 2009, desde la década del 60 ya se hablaba de este paradigma y, es a John McCarthy a quien se le atribuye la definición y el concepto tanto de cómputo en la nube como el de inteligencia artificial.
         .cajon.color-secundario.bg-9.p-4.mb-4
           p.mb-0 Posteriormente surgen nuevos autores como Joseph Carl Robnett Licklider, quien en sus conceptos siempre habló de contar con una tecnología que permitiera que todo el mundo estuviera interconectado y que de esta manera  pudiera acceder a la información desde cualquier lugar sin límites de distancias ni fronteras, este sueño dio origen a la computación en la nube, la cual se crea con el propósito de poder descentralizar los recursos de cómputo y almacenamiento para distribuirlos alrededor del mundo y facilitar el acceso a la información cada vez a más personas.
     
@@ -768,19 +768,19 @@
                     p.mb-0 Dentro de esta etapa podemos destacar como uno de los mayores avances computacionales cuando se afianzó el concepto de virtualización a finales de esa década, nace Salesforce empresa que desarrolla la primera ola de nube cuando propone ofrecer aplicaciones empresariales a través de un acceso #[em web] sencillo y simple.
                 .col-lg-3.col-md-8.col-10.mb-3.mb-lg-0
                   img(src='@/assets/curso/temas/t1/lineaTiempo_img2.png', alt='')
-              p.pb-4 Si bien en esta etapa no se había consolidado la computación en la nube, la infraestructura, tecnologías y desarrollo tecnológico propio del #[em internet] fue fundamental para el crecimiento y evolución a lo que hoy conocemos como computación en la nube.              
+              p.pb-4 Si bien en esta etapa no se había consolidado la computación en la nube, la infraestructura, tecnologías y desarrollo tecnológico propio del internet fue fundamental para el crecimiento y evolución a lo que hoy conocemos como computación en la nube.              
           .row.mb-4
             .col-lg-1.col-img.d-none.d-lg-flex
               img(src='@/assets/curso/temas/t1/lineaTiempo.svg', alt='')
               .linea_dots
             .col-lg-11.pt-md-4
               h5 Tercera Etapa – Reconocida históricamente en el 2007
-              p Se desarrolla la tecnología de poner “línea” (#[em internet]) en toda la plataforma e infraestructura tecnológica requerida por una empresa, incluyendo #[em hardware], #[em software] e #[em internetworking].
+              p Se desarrolla la tecnología de poner “línea” (internet) en toda la plataforma e infraestructura tecnológica requerida por una empresa, incluyendo #[em hardware], #[em software] e #[em internetworking].
               .row
                 .col-lg-9
                   .cajon.bg9.p-4.mb-4
-                    p.mb-0 Nacen las grandes empresas como Google,  Amazon AWS, Apple Cloud, Microsoft Azure, Alibaba Cloud, que trabajan a partir del uso de #[em internet] y de servidores centralizados, con facilidades de acceso a servicios e infraestructura de manera remota, descentralizada y por demanda.
-                  p La computación en la nube en la última década pasó de ser el servicio que grandes empresas de tecnologías ofrecían como una alternativa tecnológica a sus clientes, para convertirse en un factor preponderante en la transformación digital y adopción de buenas prácticas que toda empresa necesita, la cuarta revolución industrial, la popularización y cada vez más necesaria adopción de tecnologías como IoT, IA, Big Data, Machine Learning entre otros hace necesario que se migre y se adopten estos servicios en la nube, ya no solo desde los servicios tradicionales si no que a medida que se van adoptando estas tecnologías irán surgiendo y desarrollando una nueva oferta de servicios que transforman y mejoran los procesos de negocio.
+                    p.mb-0 Nacen las grandes empresas como Google,  Amazon AWS, Apple Cloud, Microsoft Azure, Alibaba Cloud, que trabajan a partir del uso de internet y de servidores centralizados, con facilidades de acceso a servicios e infraestructura de manera remota, descentralizada y por demanda.
+                  p La computación en la nube en la última década pasó de ser el servicio que grandes empresas de tecnologías ofrecían como una alternativa tecnológica a sus clientes, para convertirse en un factor preponderante en la transformación digital y adopción de buenas prácticas que toda empresa necesita, la cuarta revolución industrial, la popularización y cada vez más necesaria adopción de tecnologías como IoT, IA, #[em Big Data], #[em Machine Learning] entre otros hace necesario que se migre y se adopten estos servicios en la nube, ya no solo desde los servicios tradicionales si no que a medida que se van adoptando estas tecnologías irán surgiendo y desarrollando una nueva oferta de servicios que transforman y mejoran los procesos de negocio.
                 .col-lg-3.col-md-8.col-10
                   img(src='@/assets/curso/temas/t1/lineaTiempo_img3.png', alt='')
 
@@ -793,7 +793,7 @@
     
     .row.justify-content-center.align-items-center
       .col-12.col-md-12.col-lg-8(data-aos="fade-right")
-        p.mb-4 La computación en la nube permite el uso de recursos y servicios tecnológicos a través de la Red, en este caso internet, la nube da la posibilidad de que cada empresa pueda acceder a los servicios requeridos, es decir que no todos utilizarán los mismos servicios o las mismas tecnologías de la información, y las comunicaciones se conviertan en un factor potenciador y necesario para que las empresas, sin importar el tipo, funcionen de una manera eficaz y efectiva de acuerdo a su core de negocio. En general los recursos de TI se pueden clasificar en tres componentes, como se presenta en la figura 8.
+        p.mb-4 La computación en la nube permite el uso de recursos y servicios tecnológicos a través de la Red, en este caso internet, la nube da la posibilidad de que cada empresa pueda acceder a los servicios requeridos, es decir que no todos utilizarán los mismos servicios o las mismas tecnologías de la información, y las comunicaciones se conviertan en un factor potenciador y necesario para que las empresas, sin importar el tipo, funcionen de una manera eficaz y efectiva de acuerdo con su #[em core] de negocio. En general los recursos de TI se pueden clasificar en tres componentes, como se presenta en la figura 8.
         .cajon.color-custom.p-4.mb-4
           p.mb-0 Estos componentes de igual manera requieren una serie de tareas asociadas, estas son:
         .row.justify-content-center.mb-4.mb-lg-0
@@ -968,7 +968,7 @@
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 10.  
             span  Regiones con Centros de Datos AWS
-          img.mb-2(src="@/assets/curso/temas/mapa.svg" alt=" La figura presenta un mapa mundial con pequeños círculos en color azul distribuidos por todos los continente, los cuales señalan los centros de datos de AWS.")
+          img.mb-2(src="@/assets/curso/temas/mapa.svg" alt="La figura presenta un mapa mundial con pequeños círculos en color azul distribuidos por todos los continentes, los cuales señalan los centros de datos de AWS y círculos en color naranja que señalan regiones donde estarán próximamente.")
           figcaption.mb-5
             p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/3JteDTS
         .bg11.p-3
@@ -1077,7 +1077,9 @@
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 12.  
             span Regiones de Google Cloud
-          img.mb-5(src="@/assets/curso/temas/mapa2.svg" alt="La figura presenta un mapa mundial donde se señalan y enumeran los diferentes países donde se encuentran centros de datos de Google. ")
+          img.mb-2(src="@/assets/curso/temas/mapa2.svg" alt="La figura presenta un mapa mundial donde se señalan y enumeran los diferentes países donde se encuentran centros de datos de Google. ")
+          figcaption.mb-5
+            p.mb-0 #[b Fuente.] Adaptado de https://tcrn.ch/3r8c7iL
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los servicios de #[em Google Cloud Platform] #[b (GCP)], se destacan los siguientes:
         .row.justify-content-around.fondo-17
@@ -1116,7 +1118,7 @@
                     span.mb-0 #[em Cloud SQL] servicio que proporciona el almacenamiento de bases de datos tradicionales SQL.
               .tarjeta.borde-gris.bg-white.p-4
                 h4 Servicios de redes
-                p #[em Google] ofrece varios productos de red para administrar las conexiones entre los servicios en la nube de Google y el mundo exterior, es decir, el equilibrio de carga, la interconexión y los servicios DNS. Toda la infraestructura de Google es neutral en carbono y sus centros de datos consumen un 50% menos de energía que los centros de datos habituales.
+                p Google ofrece varios productos de red para administrar las conexiones entre los servicios en la nube de Google y el mundo exterior, es decir, el equilibrio de carga, la interconexión y los servicios DNS. Toda la infraestructura de Google es neutral en carbono y sus centros de datos consumen un 50% menos de energía que los centros de datos habituales.
               
         
     p.mb-4(data-aos="fade") A continuación, se presenta una tabla resumen con los principales servicios ofrecidos por cada uno de los proveedores antes mencionados.

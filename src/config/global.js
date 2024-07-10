@@ -139,7 +139,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF10_228138_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Protocolo',
       significado:
-        'Estándar o lenguaje común, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, hardware y software que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.',
+        'Estándar o lenguaje común, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, <em>hardware</em> y <em>software</em> que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.',
     },
     {
       termino: 'Redes de Datos',
@@ -229,7 +229,7 @@ export default {
     },
     {
       referencia:
-        'Giraldo, L. A. (2021, November 11). ¿Cómo ha evolucionado la computación en la nube a través del tiempo? Retrieved from',
+        'Giraldo, L. A. (2021, noviembre 11). ¿Cómo ha evolucionado la computación en la nube a través del tiempo?',
       link:
         'https://www.pragma.com.co/blog/como-ha-evolucionado-la-computacion-en-la-nube-a-traves-del-tiempo',
     },
@@ -243,13 +243,13 @@ export default {
     },
     {
       referencia:
-        'Softchris. (2021, November 16). Definición de informática en la nube - Learn. Retrieved from',
+        'Softchris. (2021, noviembre 16). Definición de informática en la nube - Learn.',
       link:
         'https://docs.microsoft.com/es-es/learn/modules/cmu-cloud-admin-overview/01-define-cloud-computing',
     },
     {
       referencia:
-        'Stallings, W., Stallings, W., Tanenbaum, A., Fall, K. R., & Stevens, W. R. (2000). Comunicaciones y Redes de Computadores, 6aedición. Prentice-Hall.',
+        'Stallings, W., Stallings, W., Tanenbaum, A., Fall, K. R., & Stevens, W. R. (2000). Comunicaciones y Redes de Computadores, 6ª edición. Prentice-Hall.',
     },
     {
       referencia:
@@ -315,21 +315,21 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñadora de Contenidos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrolladora <em>Fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animadora y Producción audiovisual',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Andrea Paola Botello De la Rosa',
+          nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Santander - Centro Agroturístico',
         },
@@ -340,12 +340,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Diana Lizeth Lozada Díaz',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
