@@ -491,14 +491,14 @@
                 h4.text2.mb-3 Puertos lógicos
                 p.text3.mb-4 Los puertos lógicos son aquellos que utilizan un espacio de la memoria principal del dispositivo (RAM) que se asocia con un puerto físico o un canal de comunicación, y que proporciona un espacio para el almacenamiento temporal de la información que se va a transferir entre la localización de memoria y el canal de comunicación.
                 figure
-                  img(src='@/assets/curso/temas/imag13.svg' alt='')
+                  img(src='@/assets/curso/temas/imag13.svg' alt='Se presenta un ejemplo de los puertos lógicos que son segmentos de la memoria principal (RAM) de un dispositivo que están asociados con puertos físicos o canales de comunicación. Su función es proporcionar un espacio temporal para el almacenamiento de la información que se transferirá entre la memoria del dispositivo y el canal de comunicación. Estos puertos permiten que los datos se gestionen de manera eficiente, facilitando la comunicación entre diferentes componentes del sistema o con dispositivos externos.')
             .tarjeta.tarjeta-azul(x="90.5%" y="65.5%" numero="")
               .head_tar.mt-0.p-2
               .p-3
                 h4.text2.mb-3 Puertos físicos
                 p.text3.mb-4 Los puertos físicos permiten la conexión de diferentes componentes tanto internos como externos los que llamamos comúnmente periféricos. 
                 figure
-                  img(src='@/assets/curso/temas/imag14.svg' alt='')
+                  img(src='@/assets/curso/temas/imag14.svg' alt='Se presenta un ejemplo de los puertos físicos que son interfaces que permiten la conexión de diversos componentes, tanto internos como externos, incluyendo los periféricos. Estos puertos facilitan la interacción del dispositivo con otros equipos o accesorios, permitiendo el intercambio de datos y la comunicación eficiente entre ellos.')
     
     p.mb-5(data-aos="fade") Para que se establezca una comunicación entre un origen y un destino se requiere entonces que tanto el emisor como el receptor utilicen el mismo protocolo de comunicaciones, pero además se requiere de un puerto de comunicación que facilite que los datos enviados desde el origen vayan por un canal exclusivo.
 
