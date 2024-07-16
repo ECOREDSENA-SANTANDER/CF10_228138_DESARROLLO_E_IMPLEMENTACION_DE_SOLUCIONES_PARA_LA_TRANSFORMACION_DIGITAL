@@ -901,7 +901,7 @@
           img.mb-2(src="@/assets/curso/temas/t1/fig9.svg" alt="La figura presenta, apilados uno sobre otro,  los siguientes nombres (comenzando en la base): Infraestructura, uso compartido de recursos, plataformas de desarrollo, software de aplicación")
           figcaption
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="obtenerLink('https://bit.ly/3cJyHp')" target="_blank")
+              a(:href="('https://bit.ly/3cJyHp')" target="_blank")
                 span https://bit.ly/3cJyHp
     
 
@@ -977,7 +977,7 @@
           img.mb-2(src="@/assets/curso/temas/mapa.svg" alt="La figura presenta un mapa mundial con pequeños círculos en color azul distribuidos por todos los continentes, los cuales señalan los centros de datos de AWS y círculos en color naranja que señalan regiones donde estarán próximamente.")
           figcaption.mb-5
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="obtenerLink('https://bit.ly/3JteDTS')" target="_blank")
+              a(:href="('https://bit.ly/3JteDTS')" target="_blank")
                 span https://bit.ly/3JteDTS
         .bg11.p-3
           h4.text-center.mb-0 Amazon ofrece más de 100 servicios distribuidos entre los cuales podemos mencionar:
@@ -1025,7 +1025,7 @@
           img.mb-2(src="@/assets/curso/temas/mapa1.png" alt="En la figura se señalan, sobre un mapa mundial y con círculos azules, todos los países donde existen centros de datos de microsoft Azure.")
           figcaption.mb-5 
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="obtenerLink('https://bit.ly/313Kblk')" target="_blank")
+              a(:href="('https://bit.ly/313Kblk')" target="_blank")
                 span https://bit.ly/313Kblk
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los más de 100 servicios ofrecidos por #[em Microsoft Azure] podemos mencionar:
@@ -1090,7 +1090,7 @@
           img.mb-2(src="@/assets/curso/temas/mapa2.svg" alt="La figura presenta un mapa mundial donde se señalan y enumeran los diferentes países donde se encuentran centros de datos de Google. ")
           figcaption.mb-5
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="obtenerLink('https://tcrn.ch/3r8c7iL')" target="_blank")
+              a(:href="('https://tcrn.ch/3r8c7iL')" target="_blank")
                 span https://tcrn.ch/3r8c7iL
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los servicios de #[em Google Cloud Platform] #[b (GCP)], se destacan los siguientes:
