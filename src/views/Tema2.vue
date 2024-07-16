@@ -52,7 +52,7 @@
                 i.fas.fa-angle-right
                 span.mb-0 En el caso de las #[em startups] toma mayor importancia porque, al ceder recursos de proceso en concesión, se benefician de reducir el costo inicial y reducir el tiempo de comercialización al crear y poner sus ofertas a disposición del público general.
           p(numero="2" titulo="Administración simplificada de TI") Esta es una ventaja muy importante ya que no se requiere disponer de tiempo, recursos y personal para configurar, usar y mantener los recursos e infraestructura tecnológica de la organización, estos son funciones que son asumidas por el proveedor de servicios de #[em Cloud] y es un factor diferencial en la oferta de valores ofrecidos por los diferentes proveedores al momento de cotizar o adquirir servicios de nube.
-          p(numero="3" titulo="Escalabilidad") En la computación tradicional el proceso de adquirir, configurar y poner en funcionamiento recursos de TI suele ser un proceso demorado y no tan ágil, por el contrario los proveedores de servicios #[em Cloud] pueden realizar aprovisionamiento de recursos a medida de la necesidad de cada empresa en cuestión de minutos o horas según lo requerido, esta característica permite que el cliente pueda crecer o decrecer verticalmente según la demanda, esto permite el ahorro de dinero, las nubes tienen una importante característica denominada elasticidad, donde los recursos se pueden aprovisionar y desaprovisionar de forma dinámica o mediante programación para adaptarse a las cargas de trabajo requeridas.
+          p(numero="3" titulo="Escalabilidad") En la computación tradicional el proceso de adquirir, configurar y poner en funcionamiento recursos de TI suele ser un proceso demorado y no tan ágil, por el contrario, los proveedores de servicios #[em Cloud] pueden realizar aprovisionamiento de recursos a medida de la necesidad de cada empresa en cuestión de minutos u horas según lo requerido, esta característica permite que el cliente pueda crecer o decrecer verticalmente según la demanda, esto permite el ahorro de dinero, las nubes tienen una importante característica denominada elasticidad, donde los recursos se pueden aprovisionar y desaprovisionar de forma dinámica o mediante programación para adaptarse a las cargas de trabajo requeridas.
           p(numero="4" titulo="Flexibilidad") Los proveedores de servicios de #[em Cloud], hoy tienen la posibilidad de ofrecer servicios flexibles, elásticos y modulares que serán provisionados de acuerdo a la necesidad particular de cada cliente que incluye diferentes plataformas tecnológicas, y diferentes sistemas operativos personalizando las instancias, máquinas virtuales o contenedores de acuerdo a cada necesidad específica.
           p(numero="5" titulo="Alto impacto en la conservación del planeta")  Gracias a la informática en la nube se ha mejorado el acceso a los recursos, pues se comparten recursos físicos entre múltiples clientes a través de tecnologías como la virtualización, y los servidores. Ahora se consolidan estos como instancias del sistema operativo que comparten los mismos recursos físicos disponibles, lo que conduce a un ahorro global en energía y refrigeración y reduce la huella de carbono.       
           p(numero="6" titulo="Implementación rápida y global") Al tener una presencia global, todos los proveedores de servicios de #[em Cloud] facilitan el despliegue y presencia rápida y con presencia global, las pequeñas empresas, emprendimientos y #[em startups], pueden llegar más fácilmente a nuevos mercados y competir con otras empresas ya establecidas.
@@ -170,7 +170,7 @@
       .col-lg-8(data-aos="fade-left")
         .cajon.color-custom.bg14.p-4.mb-4
           p.mb-0 La respuesta a estas preguntas es lo que permite determinar los objetivos del acuerdo de nivel de servicios o SLA donde se realiza un contrato entre el proveedor (externo o interno) y el cliente, y se establecen los servicios y las características de los mismos que el cliente espera de su proveedor.
-        p Un acuerdo de nivel de servicio puede contar entre otras con las siguientes características:
+        p Un acuerdo de nivel de servicio puede contar, entre otras, con las siguientes características:
         ul.lista-ul--color.fa-ul
           li 
             i.fas.fa-angle-right
@@ -207,20 +207,22 @@
             img(src='@/assets/curso/temas/t2/imag05.svg', alt='')
           .col-lg-8(data-aos="fade-left")
             p Las organizaciones en el desarrollo de su actividad o #[em core] de negocio reciben, generan, procesan o conservan información considerada como activos de la organización y tienen una afectación desde el plano económico o de negocio, de conocimiento o de propiedad intelectual en el momento de estar expuesta a posibles amenazas que puedan afectar lo antes mencionado.
-            p Las amenazas a la seguridad en la computación en la nube van a depender de varios factores
+            p Las amenazas a la seguridad en la computación en la nube van a depender de varios factores.
             .tarjeta.bg10.p-4
               h4.text2 Amenazas
               p.text-white El tipo de servicio contratado según los SLA previamente establecidos entre proveedor y cliente donde se determinan las responsabilidades de cada parte.
               p.text-white.mb-0 El tipo de despliegue o puesta en producción de los servicios contratados.
     
-    p.mb-4(data-aos="fade") En términos generales, son varias las amenazas que afectan la computación en la nube como se describen a continuación:
+    p.mb-1(data-aos="fade") En términos generales, son varias las amenazas que afectan la computación en la nube. 
+    p.mb-4(data-aos="fade") Como se describen a continuación:
     
     .bg2(data-aos="fade-down")
       SlyderA(tipo="b").p-4
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Accesos no autorizados
-            p La gran mayoría de los servicios contratados regularmente están en nubes públicas lo que requiere un trabajo conjunto entre el proveedor y el cliente definido y adoptando todas las medidas necesarias para evitar el acceso de personas distintas a la organización a la información sensible.
+            p La gran mayoría de los servicios contratados regularmente están en nubes públicas. 
+            p Lo que requiere un trabajo conjunto entre el proveedor y el cliente definido y adoptando todas las medidas necesarias para evitar el acceso de personas distintas a la organización a la información sensible.
           .col-md-5
             img(src='@/assets/curso/temas/t2/imag07.svg', alt='')
         .row.justify-content-around.align-items-center
@@ -252,7 +254,7 @@
             img(src='@/assets/curso/temas/t2/imag12.svg', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Suplantación de identidad
-            p Esta puede ser provocada por el descuido en el manejo de las credenciales de un usuario, por ataques de fuerza bruta, de ingeniería social lo que permitirá que un delincuente o extraño pueda ingresar suplantando a un usuario real y manipule o robe  información confidencial.
+            p Esta puede ser provocada por el descuido en el manejo de las credenciales de un usuario o por ataques de fuerza bruta, de ingeniería social lo que permitirá que un delincuente o extraño pueda ingresar suplantando a un usuario real y manipule o robe  información confidencial.
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Desconocimiento de tecnologías #[em Cloud]

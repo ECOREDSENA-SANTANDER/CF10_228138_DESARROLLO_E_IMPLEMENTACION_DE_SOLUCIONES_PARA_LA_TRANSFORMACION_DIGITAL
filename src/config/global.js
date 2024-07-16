@@ -52,7 +52,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Evolución de la informática en la nube',
+            titulo: 'Bloques de creación en la nube',
             hash: 't_1_4',
           },
           {
@@ -62,7 +62,7 @@ export default {
           },
           {
             numero: '1.6',
-            titulo: 'Principales proveedores de nube',
+            titulo: 'Principales proveedores de servicios en la nube',
             hash: 't_1_6',
           },
         ],
@@ -170,7 +170,7 @@ export default {
     {
       termino: '<em>AWS</em>',
       significado:
-        ' <em>Amazon Web Services</em>: servicios de cloud ofrecidos por Amazon.',
+        ' <em>Amazon Web Services</em>: servicios de <em>cloud</em> ofrecidos por Amazon.',
     },
     {
       termino: '<em>CapEx</em>',

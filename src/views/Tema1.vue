@@ -26,8 +26,8 @@
             img.mb-3.mb-lg-0(src='@/assets/curso/temas/icono01.svg' alt='' , style="width:115px; display:block; margin:0 auto;")
           .col-lg-9
             img.d-none.d-lg-block(src='@/assets/curso/temas/comillas.svg' alt='' style='width:65px;margin: 0 -1rem').mb-2
-            h5.align-14 #[b Según  Del Vecchio, J. F., Paternina, F. J., & Henriquez Miranda, C. (2015)]
-            h5.align-14 #[b #[em “La computación en la nube es el modelo que permite el acceso a una red bajo demanda de un conjunto de servicios informáticos configurables tales como infraestructura, aplicaciones y almacenamiento.”]]
+            h5.align-14 #[b Según  Del Vecchio, J. F., Paternina, F. J., & Henriquez Miranda, C. (2015).]
+            h5.align-14 #[b #[em “La computación en la nube es el modelo que permite el acceso a una red bajo demanda de un conjunto de servicios informáticos configurables, tales como infraestructura, aplicaciones y almacenamiento.”]]
             .floatRight.alreves
               img.d-none.d-lg-block(src='@/assets/curso/temas/comillas.svg' alt='' style='width:95px;margin: 0 -1rem').mb-0
     
@@ -53,14 +53,14 @@
                 h4  Plataformas en la nube
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 02
-            p.text-white.mb-0 Las Plataformas en la Nube son tan flexibles y versátiles que se usan para desarrollar aplicaciones y sistemas complejos para impulsar los entornos virtuales. De hecho; los sistemas #[em PaaS] proporcionan marcos virtuales donde los especialistas desarrollan y personalizan sus sistemas los propietarios y las aplicaciones.
+            p.text-white.mb-0 Las Plataformas en la Nube son tan flexibles y versátiles que se usan para desarrollar aplicaciones y sistemas complejos para impulsar los entornos virtuales. De hecho; los sistemas #[em PaaS] proporcionan marcos virtuales donde los especialistas desarrollan y personalizan sus sistemas, los propietarios y las aplicaciones.
           .tarjeta.color-primario.p-3(x="51.7%" y="50%" numero="")
             .row.space-between.img-infog1.align-items-center.text-white.mb-0
               .col-md-10.col-9
                 h4 #[em Software] como servicio
               .col-md-2.col-3
                 h2.numeroTarjeta.mb-0 03
-            p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como #[em Software] como Servicio (#[em SaaS]) se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los #[em SaaS] representan el mayor mercado de servicios y sistemas en la Nube.
+            p.text-white.mb-0 Los Servicios de Aplicaciones en la Nube, o mejor conocidos como #[em Software] como Servicio (#[em SaaS]), se enfocan en el uso de la web para entregar aplicaciones para todo y todos. Esta es la razón por la cual los #[em SaaS] representan el mayor mercado de servicios y sistemas en la Nube.
           .tarjeta.bg4.p-3(x="76%" y="50%" numero="")
             .row.space-between.img-infog1.align-items-center.text-white.mb-0
               .col-md-10.col-9
@@ -113,7 +113,7 @@
         img(src='@/assets/curso/temas/menu.png')
       .col-lg-11    
         .tarjeta.fondo-menu.mt-n5.p-4
-          p.mb-5 Si bien en la mayoría de las ocasiones no es fácil identificar todas las opciones posibles, cuantas más alternativas se generen es más probable obtener una que resulte significativamente satisfactoria.
+          p.mb-5 Si bien en la mayoría de las ocasiones no es fácil identificar todas las opciones posibles, cuantas más alternativas se generen, es más probable obtener una que resulte significativamente satisfactoria.
           //.row
             .menu7.mb-3
               .caja.p-3
@@ -146,7 +146,7 @@
                 a(href="#7", title="Recursos compartidos").mb-0 Recursos compartidos
 
     
-    p.mb-5(data-aos="fade") Cuando hablamos de computación en la nube se mencionan una serie de componentes que hacen parte del conjunto dentro de los cuales se destacan:
+    p.mb-5(data-aos="fade") Cuando hablamos de computación en la nube, se mencionan una serie de componentes que hacen parte del conjunto, dentro de los cuales se destacan:
 
     #1.subtitulo.mb-4(data-aos="fade")
       h3.mb-0 Redes de datos
@@ -157,7 +157,7 @@
       .col-lg-8(data-aos="fade-left")
         p Las redes de datos tienen por función potenciar e incrementar la productividad de las organizaciones al permitir que todos los dispositivos que se encuentran conectados puedan acceder a los recursos que se encuentran compartidos, en los últimos años la tecnología ha entrado a jugar un papel preponderante en el desarrollo y evolución de las organizaciones y cada vez está más inmersa en todos los procesos y actividades empresariales, personales y cotidianas.
         .cajon.color-secundario.bg-9.p-4.mb-4
-          p.mb-0 Las redes han permitido que los servicios y el acceso a estos recursos sea cada vez más necesario ya que se requiere tener en todo momento trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos, esto es lo que conocemos como el #[em networking]. Para que dichas redes pueden interconectarse y trabajar en red se requiere de una serie de componentes desde el punto de vista físico y lógico dentro de los cuales destacamos los siguientes:
+          p.mb-0 Las redes han permitido que los servicios y el acceso a estos recursos sean cada vez más necesarios, ya que se requiere tener en todo momento trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos, esto es lo que conocemos como el #[em networking]. Para que dichas redes pueden interconectarse y trabajar en red se requiere de una serie de componentes desde el punto de vista físico y lógico, dentro de los cuales destacamos los siguientes:
     
     .row.mb-5(data-aos="fade-down")
       .col-6.col-lg.mb-4.mb-lg-0
@@ -205,14 +205,14 @@
       .col-lg-10.col-md-9(data-aos="fade-left")
         p Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos.
     
-    p(data-aos="fade") Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar fabricante o tipo se #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
+    p(data-aos="fade") Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar el fabricante o tipo de #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
     p.mb-4(data-aos="fade") Estos estándares son construidos por una serie de organizaciones que son las siguientes:
     
     .row.align-items-center.mb-5
       .col-lg-7.col-12.mb-5.mb-md-0(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="ISO (Organización Internacional de Normas)") ISO definió un modelo de referencia como estándar para posibilitar las comunicaciones electrónicas a nivel global, conocido como el modelo #[em OSI] (Interconexión de Sistemas Abiertos).
-          p(numero="2" titulo="IEEE (Instituto de ingenieros electrónicos y eléctricos)") Este organismo es encargado de fijar los estándares para los elementos físicos de una red, cables, conectores e interfaces.
+          p(numero="2" titulo="IEEE (Instituto de Ingenieros Electrónicos y Eléctricos)") Este organismo es encargado de fijar los estándares para los elementos físicos de una red, cables, conectores e interfaces.
           p(numero="3" titulo="ANSI (Instituto Nacional Americano de Normalización)") Es una organización sin fines de lucro que supervisa el desarrollo de estándares para productos, servicios, procesos y sistemas en los Estados Unidos.        
           p(numero="4" titulo="EIA (Asociación de Industrias Electrónicas)") Es una organización formada por la asociación de las compañías electrónicas y de alta tecnología de los Estados Unidos, cuya misión es promover el desarrollo de mercado y la competitividad de la industria de alta tecnología de los Estados Unidos con esfuerzos locales e internacionales de la política.
           p(numero="5" titulo="TIA (Asociación de Industrias Telecomunicaciones)") Es una asociación comercial acreditada por el Instituto Nacional Estadounidense de Estándares (ANSI), con el fin de desarrollar normas industriales, tanto voluntarias como basadas en el consenso, sobre una amplia variedad de productos de las tecnologías de la información y la comunicación (TIC), y actualmente representa a casi 400 empresas. El Departamento de Estándares y Tecnología de TIA opera doce comités de ingeniería, que desarrollan pautas para equipos de radio privados, antenas celulares, terminales de datos, satélites, equipos de terminales telefónicos, accesibilidad, dispositivos VoIP, cableado estructurado, centros de procesamiento de datos, comunicaciones de dispositivos móviles, multidifusión multimedia, telemática vehicular, TIC utilizadas en el cuidado de la salud, comunicaciones M2M y redes de servicios inteligentes.        
@@ -230,7 +230,7 @@
             p.mb-0 Los modelos de referencia se basan en la definición de una serie de capas las cuales tienen sus propias funciones y características que se encargan de resolver un problema diferente en la comunicación, tienen como propósito asistir en la comprensión más clara y sencilla de las funciones y los procesos involucrados en la interconexión de los diferentes dispositivos de red, para ello se establecen una serie de capas con un orden específico y cada una se sustenta en la capa anterior, y más que entrar en los detalles de las especificaciones técnicas requeridas en cada una de ellas, el modelo de referencia ayuda en la comprensión de lo que sucede, ayudándonos a lograr un mejor entendimiento de las funciones y procesos involucrados.
 
     .container.px-4.pt-4.fondo-1.mb-4(data-aos="fade-down")
-      p.mb-4 El modelo de referencia para las redes de comunicaciones es el modelo OSI -Interconexión de Sistemas Abiertos, el cual se explica a continuación:
+      p.mb-4 El modelo de referencia para las redes de comunicaciones es el modelo OSI - Interconexión de Sistemas Abiertos, el cual se explica a continuación:
       .row.justify-content-around.align-items-end
         .col-12.col-lg-7
           ImagenInfografica.color-acento-botones
@@ -352,7 +352,7 @@
     p.mb-5 El modelo OSI es el modelo de referencia de internetwork más conocido. Es utilizado para el diseño de redes de datos, especificaciones de funcionamiento y la resolución de problemas ya que permite ir descartando en cada capa el posible problema.
     
     #3.subtitulo.mb-4(data-aos="fade")
-      h3.mb-0 Modelo de referencia TCP /IP
+      h3.mb-0 Modelo de referencia TCP/IP
 
     .row.align-items-center.mb-4
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
@@ -363,17 +363,19 @@
           p Aunque el modelo OSI es universalmente reconocido, el estándar histórica y técnicamente reconocido para Internet es el modelo TCP/IP (Protocolo de Control de Transferencia / Protocolo de Internet).
           p.mb-0 Define cuatro categorías de funciones que deben existir para que las comunicaciones sean exitosas. La arquitectura de la #[em suite] de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se le conozca como modelo TCP/IP.
 
-    p.mb-4(data-aos="fade") El modelo consta de cuatro capas como se presenta en la figura a continuación:
+    p.mb-4(data-aos="fade") El modelo consta de cuatro capas, como se presenta en la figura a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.col-md-7.col-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span  Modelo de referencia TCP/IP
-        img.mb-3.d-lg-flex.d-none(src="@/assets/curso/temas/imag05.svg" alt="El diagrama describe el modelo TCP/IP y sus 4 capas de la siguiente manera: Capa 4, aplicación, representa datos para el usuario más el control de codificación y de dialogo. Capa 3, trasporte, admite la comunicación entre distintos dispositivos de distintas redes. Capa 2, internet, determina la mejor ruta a través de la red. Capa 1, acceso a la red, controla los dispositivos de hardware y los medios que forman la red.")
-        img.mb-3.d-flex.d-lg-none(src="@/assets/curso/temas/t1/fig1-mob.svg" alt="El diagrama describe el modelo TCP/IP y sus 4 capas de la siguiente manera: Capa 4, aplicación, representa datos para el usuario más el control de codificación y de dialogo. Capa 3, trasporte, admite la comunicación entre distintos dispositivos de distintas redes. Capa 2, internet, determina la mejor ruta a través de la red. Capa 1, acceso a la red, controla los dispositivos de hardware y los medios que forman la red.")
+        img.mb-3.d-lg-flex.d-none(src="@/assets/curso/temas/imag05.svg" alt="El diagrama describe el modelo TCP/IP y sus 4 capas de la siguiente manera: Capa 4, aplicación, representa datos para el usuario más el control de codificación y de diálogo. Capa 3, transporte, admite la comunicación entre distintos dispositivos de distintas redes. Capa 2, internet, determina la mejor ruta a través de la red. Capa 1, acceso a la red, controla los dispositivos de hardware y los medios que forman la red.")
+        img.mb-3.d-flex.d-lg-none(src="@/assets/curso/temas/t1/fig1-mob.svg" alt="El diagrama describe el modelo TCP/IP y sus 4 capas de la siguiente manera: Capa 4, aplicación, representa datos para el usuario más el control de codificación y de diálogo. Capa 3, transporte, admite la comunicación entre distintos dispositivos de distintas redes. Capa 2, internet, determina la mejor ruta a través de la red. Capa 1, acceso a la red, controla los dispositivos de hardware y los medios que forman la red.")
         figcaption 
-          p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/32BgN6J
+          p.mb-0 #[b Fuente.] Adaptado de 
+            a(:href="('https://bit.ly/32BgN6J')" target="_blank")
+              span https://bit.ly/32BgN6J
 
     
     #4.subtitulo.mb-4(data-aos="fade")
@@ -444,7 +446,7 @@
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 2.] Servicios orientados a conexión 
             figure
-              img(src='@/assets/curso/temas/imag09.svg', alt='Se presenta un diagrama donde un equipo A(emisor), establece una conexión con el equipo B(receptor) a través de el paquete 1 que lleva el mensaje, y el paquete B que asegura su recepción en el destino.')
+              img(src='@/assets/curso/temas/imag09.svg', alt='Se presenta un diagrama donde un equipo A(emisor), establece una conexión con el equipo B(receptor) a través del paquete 1 que lleva el mensaje, y el paquete B que asegura su recepción en el destino.')
       .bg8.py-4.py-md-5(titulo="Protocolos no orientados a la conexión" :icono="require('@/assets/curso/temas/icono14.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -453,7 +455,7 @@
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 3.] Servicios de red no orientados a conexión 
             figure
-              img(src='@/assets/curso/temas/imag10.svg', alt='Se presenta un diagrama donde el equipo A(emisor) envía un mensaje a través de dos paquetes 1 y 2, sin asegurar su llegada al equipo B (receptor)')
+              img(src='@/assets/curso/temas/imag10.svg', alt='Se presenta un diagrama donde el equipo A (emisor) envía un mensaje a través de dos paquetes 1 y 2, sin asegurar su llegada al equipo B (receptor)')
 
     p.mb-4(data-aos="fade") En la figura que se encuentra a continuación, se evidencian algunos ejemplos de los protocolos que son usados en los servicios que normalmente utilizamos en la comunicación entre las redes de datos.
     
@@ -481,7 +483,7 @@
           ImagenInfografica.color-secundario
             template(v-slot:imagen)
               figure
-                img(src="@/assets/curso/temas/imag12.svg" alt="La figura presenta un diagrama de flujo que conecta de manera secuencial los siguientes conceptos: solicitud de intercambio de texto, Servisio SMTP (protocolo TCP), puerto lógico (25), puerto físico (RJ-45), red local (LAN)")
+                img(src="@/assets/curso/temas/imag12.svg" alt="La figura presenta un diagrama de flujo que conecta de manera secuencial los siguientes conceptos: solicitud de intercambio de texto, Servicio SMTP (protocolo TCP), puerto lógico (25), puerto físico (RJ-45), red local (LAN)")
             
             .tarjeta.tarjeta-azul(x="59.5%" y="65.5%" numero="")
               .head_tar.mt-0.p-2
@@ -494,7 +496,7 @@
               .head_tar.mt-0.p-2
               .p-3
                 h4.text2.mb-3 Puertos físicos
-                p.text3.mb-4 Los puertos físicos permiten la conexión de diferentes componentes tanto internos como externos los que llamamos comúnmente periféricos, 
+                p.text3.mb-4 Los puertos físicos permiten la conexión de diferentes componentes tanto internos como externos los que llamamos comúnmente periféricos. 
                 figure
                   img(src='@/assets/curso/temas/imag14.svg' alt='')
     
@@ -508,7 +510,7 @@
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/imag15.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p Para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos. Los medios de transmisión se pueden categorizar en dos grandes tipos que son los medios guiados y no guiados.
+        p Para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos. Los medios de transmisión se pueden categorizar en dos grandes tipos, que son los medios guiados y no guiados.
         .cajon.color-secundario.bg-9.p-4.mb-4
           p.mb-4 Los medios guiados conducen (guían) las señales a través de un camino físico, tal como se muestra en la figura 6, dentro de los cuales podemos encontrar:
 
@@ -541,7 +543,9 @@
         img(src="@/assets/curso/temas/t1/fig3-mob.svg" alt="En la imagen se presentan tres fotografías de cables: par trenzado, coaxial y fibra óptica.")
       .col-lg-10.mb-4
         figcaption 
-          p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/3CPjaPq
+          p.mb-0 #[b Fuente.] Adaptado de 
+            a(:href="('https://bit.ly/3CPjaPq')" target="_blank")
+              span https://bit.ly/3CPjaPq
 
     p(data-aos="fade") Los medios de transmisión no guiados son aquellos sin cable, transportan ondas electromagnéticas sin usar un conductor físico, sino que se radian a través del aire, por lo que están disponibles para cualquiera que tenga un dispositivo capaz de aceptarlas.
     p(data-aos="fade") Normalmente utilizan el aire como el medio a través del cual viajan las señales en frecuencias electromagnéticas, por lo que generalmente requieren de una antena que permita transmitir y recibir datos de diferentes tipos.
@@ -689,7 +693,7 @@
           .col-auto
             img(src="@/assets/curso/temas/t1/tarj-conect1.svg", alt="").img100
           .col
-            p El almacenamiento de los datos se hace de manera local en dispositivos como discos duros y servidores locales, este trae consigo el problema de que si llegase a fallar el servidor se corre el riesgo de la pérdida de información o perdida de acceso a los servicios.
+            p El almacenamiento de los datos se hace de manera local en dispositivos como discos duros y servidores locales, este trae consigo el problema de que, si llegase a fallar el servidor, se corre el riesgo de la pérdida de información o pérdida de acceso a los servicios.
       .crd.crd--avatarHorizontal.py-4
         .row.align-items-center
           .col-auto
@@ -701,7 +705,7 @@
           .col-auto
             img(src="@/assets/curso/temas/t1/tarj-conect3.svg", alt="").img100
           .col
-            p A nivel de aplicaciones se tiene el inconveniente de tener que administrarse no solo la aplicación si no la plataforma de desarrollo, adicionalmente si se cuenta con aplicaciones no web sino tipo escritorio se obliga a tener que estar actualizando el servidor y los clientes que acceden a estas, una razón más para disponer de aplicaciones como servicio ofrecidas a través de la nube.
+            p A nivel de aplicaciones se tiene el inconveniente de tener que administrarse no solo la aplicación sino la plataforma de desarrollo, adicionalmente si se cuenta con aplicaciones no web sino tipo escritorio se obliga a tener que estar actualizando el servidor y los clientes que acceden a estas, una razón más para disponer de aplicaciones como servicio ofrecidas a través de la nube.
       .crd.crd--avatarHorizontal.crd--last.py-4
         .row.align-items-center
           .col-auto
@@ -712,7 +716,7 @@
     //.row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="Paso 1") El almacenamiento de los datos se hace de manera local en dispositivos como discos duros y servidores locales, este trae consigo el problema de que si llegase a fallar el servidor se corre el riesgo de la pérdida de información o perdida de acceso a los servicios.
+          p(numero="1" titulo="Paso 1") El almacenamiento de los datos se hace de manera local en dispositivos como discos duros y servidores locales, este trae consigo el problema de que si llegase a fallar el servidor se corre el riesgo de la pérdida de información o pérdida de acceso a los servicios.
           p(numero="2" titulo="Paso 2") La administración de los recursos, que se relaciona con: el suministro de energía, aire acondicionado, sistemas de protección UPS y el mantenimiento preventivo y/o correctivo de los dispositivos, sin mencionar el hecho de que la tecnología en cuanto a infraestructura, va perdiendo su valor y se va devaluando rápidamente debido al constante desarrollo y evolución.
           p(numero="3" titulo="Paso 3") A nivel de aplicaciones se tiene el inconveniente de tener que administrarse no solo la aplicación si no la plataforma de desarrollo, adicionalmente si se cuenta con aplicaciones no web sino tipo escritorio se obliga a tener que estar actualizando el servidor y los clientes que acceden a estas, una razón más para disponer de aplicaciones como servicio ofrecidas a través de la nube.        
           p(numero="4" titulo="Paso 4") A nivel de conectividad en la mayoría de las ocasiones el acceso a los servicios, aplicaciones y recursos normalmente está restringido a un acceso local, puesto que disponer de estrategias de conexión remotas requiere tener adicionalmente dispositivos de protección perimetral como firewalls y requerirá un nivel adicional de protección y administración desde el punto de vista de la ciberseguridad.
@@ -722,7 +726,7 @@
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.3 La evolución de la informática en la nube
+      .h2 1.3 Evolución de la informática en la nube
     
     .row.align-items-end.mb-4
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
@@ -833,13 +837,13 @@
             ul.lista-ul--color.ps-3
               li 
                 i.fas.fa-angle-right
-                | Almacenamiento, 
+                | Almacenamiento.
               li 
                 i.fas.fa-angle-right
-                | Procesamiento, 
+                | Procesamiento.
               li 
                 i.fas.fa-angle-right
-                span.mb-0 #[em Networking],
+                span.mb-0 #[em Networking].
               li 
                 i.fas.fa-angle-right
                 span.mb-0 #[em Software] de administración de la infraestructura.
@@ -896,9 +900,11 @@
         .col-lg-5.col-10.col-md-8(data-aos="fade")
           img.mb-2(src="@/assets/curso/temas/t1/fig9.svg" alt="La figura presenta, apilados uno sobre otro,  los siguientes nombres (comenzando en la base): Infraestructura, uso compartido de recursos, plataformas de desarrollo, software de aplicación")
           figcaption
-            p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/3cJyHp
-
+            p.mb-0 #[b Fuente.] Adaptado de 
+              a(:href="obtenerLink('https://bit.ly/3cJyHp')" target="_blank")
+                span https://bit.ly/3cJyHp
     
+
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.5 Tipos de nubes
@@ -930,7 +936,7 @@
                 img.mt-3(src='@/assets/curso/temas/nube2.svg' alt='' style='width:105px').mx-auto          
               .col-md-10.py-3
                 h3.text-center.mb-3 Nube híbrida
-                p.text-center.px-2.px-md-0 Son nubes que combinan las características de dos nubes privadas, las nubes públicas o compartidas, se caracterizan por que permiten el poder compartir servicios e infraestructura entre ambas nubes.
+                p.text-center.px-2.px-md-0 Son nubes que combinan las características de dos nubes privadas, las nubes públicas o compartidas, se caracterizan porque permiten el poder compartir servicios e infraestructura entre ambas nubes.
           .tarjeta.borde-gris
             .row.justify-content-center
               .col-md-10.mb-4.mb-md-2.p-0
@@ -970,7 +976,9 @@
             span  Regiones con Centros de Datos AWS
           img.mb-2(src="@/assets/curso/temas/mapa.svg" alt="La figura presenta un mapa mundial con pequeños círculos en color azul distribuidos por todos los continentes, los cuales señalan los centros de datos de AWS y círculos en color naranja que señalan regiones donde estarán próximamente.")
           figcaption.mb-5
-            p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/3JteDTS
+            p.mb-0 #[b Fuente.] Adaptado de 
+              a(:href="obtenerLink('https://bit.ly/3JteDTS')" target="_blank")
+                span https://bit.ly/3JteDTS
         .bg11.p-3
           h4.text-center.mb-0 Amazon ofrece más de 100 servicios distribuidos entre los cuales podemos mencionar:
         .row.justify-content-around.fondo-15
@@ -1016,7 +1024,9 @@
             span  Regiones con Centros de Datos #[em Microsoft Azure]
           img.mb-2(src="@/assets/curso/temas/mapa1.png" alt="En la figura se señalan, sobre un mapa mundial y con círculos azules, todos los países donde existen centros de datos de microsoft Azure.")
           figcaption.mb-5 
-            p.mb-0 #[b Fuente.] Adaptado de https://bit.ly/313Kblk
+            p.mb-0 #[b Fuente.] Adaptado de 
+              a(:href="obtenerLink('https://bit.ly/313Kblk')" target="_blank")
+                span https://bit.ly/313Kblk
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los más de 100 servicios ofrecidos por #[em Microsoft Azure] podemos mencionar:
         .row.justify-content-around.fondo-16
@@ -1079,7 +1089,9 @@
             span Regiones de Google Cloud
           img.mb-2(src="@/assets/curso/temas/mapa2.svg" alt="La figura presenta un mapa mundial donde se señalan y enumeran los diferentes países donde se encuentran centros de datos de Google. ")
           figcaption.mb-5
-            p.mb-0 #[b Fuente.] Adaptado de https://tcrn.ch/3r8c7iL
+            p.mb-0 #[b Fuente.] Adaptado de 
+              a(:href="obtenerLink('https://tcrn.ch/3r8c7iL')" target="_blank")
+                span https://tcrn.ch/3r8c7iL
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los servicios de #[em Google Cloud Platform] #[b (GCP)], se destacan los siguientes:
         .row.justify-content-around.fondo-17
