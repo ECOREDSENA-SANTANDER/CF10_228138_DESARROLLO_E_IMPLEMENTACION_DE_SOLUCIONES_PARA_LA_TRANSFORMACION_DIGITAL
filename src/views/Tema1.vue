@@ -467,7 +467,10 @@
         figure
           img.mb-3(src="@/assets/curso/temas/tabla.svg" alt="La figura presenta una comparación entre el modelo OSI y el modelo TCP/IP, mencionando también los diferentes conjuntos de protocolos utilizados en sus funciones y que son compartidos por ambos modelos.")
         figcaption 
-          p.mb-0 #[b Fuente.] https://interpolados.files.wordpress.com/2017/03/17.png 
+          p.mb-0 #[b Fuente.] Adaptado de 
+              a(:href="('https://interpolados.files.wordpress.com/2017/03/17.png')" target="_blank")
+                span https://interpolados.files.wordpress.com/2017/03/17.png
+          //p.mb-0 #[b Fuente.] https://interpolados.files.wordpress.com/2017/03/17.png 
 
 
     #5.subtitulo.mb-4(data-aos="fade")
@@ -901,8 +904,8 @@
           img.mb-2(src="@/assets/curso/temas/t1/fig9.svg" alt="La figura presenta, apilados uno sobre otro,  los siguientes nombres (comenzando en la base): Infraestructura, uso compartido de recursos, plataformas de desarrollo, software de aplicación")
           figcaption
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="('https://bit.ly/3cJyHp')" target="_blank")
-                span https://bit.ly/3cJyHp
+              a(:href="('https://learn.microsoft.com/es-es/training/modules/cmu-cloud-admin-overview/')" target="_blank")
+                span https://learn.microsoft.com/es-es/training/modules/cmu-cloud-admin-overview/
     
 
     Separador
@@ -977,8 +980,8 @@
           img.mb-2(src="@/assets/curso/temas/mapa.svg" alt="La figura presenta un mapa mundial con pequeños círculos en color azul distribuidos por todos los continentes, los cuales señalan los centros de datos de AWS y círculos en color naranja que señalan regiones donde estarán próximamente.")
           figcaption.mb-5
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="('https://bit.ly/3JteDTS')" target="_blank")
-                span https://bit.ly/3JteDTS
+              a(:href="('https://www.dreams.es/uploads/2019/aws-global.png')" target="_blank")
+                span https://www.dreams.es/uploads/2019/aws-global.png
         .bg11.p-3
           h4.text-center.mb-0 Amazon ofrece más de 100 servicios distribuidos entre los cuales podemos mencionar:
         .row.justify-content-around.fondo-15
