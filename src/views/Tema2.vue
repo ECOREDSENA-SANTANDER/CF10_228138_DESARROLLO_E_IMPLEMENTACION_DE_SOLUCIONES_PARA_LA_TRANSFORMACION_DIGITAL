@@ -213,16 +213,14 @@
               p.text-white El tipo de servicio contratado según los SLA previamente establecidos entre proveedor y cliente donde se determinan las responsabilidades de cada parte.
               p.text-white.mb-0 El tipo de despliegue o puesta en producción de los servicios contratados.
     
-    p.mb-1(data-aos="fade") En términos generales, son varias las amenazas que afectan la computación en la nube. 
-    p.mb-4(data-aos="fade") Como se describen a continuación:
+    p.mb-4(data-aos="fade") En términos generales, son varias las amenazas que afectan la computación en la nube, como se describen a continuación:
     
     .bg2(data-aos="fade-down")
       SlyderA(tipo="b").p-4
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Accesos no autorizados
-            p La gran mayoría de los servicios contratados regularmente están en nubes públicas. 
-            p Lo que requiere un trabajo conjunto entre el proveedor y el cliente definido y adoptando todas las medidas necesarias para evitar el acceso de personas distintas a la organización a la información sensible.
+            p La gran mayoría de los servicios contratados regularmente están en nubes públicas, lo que requiere un trabajo conjunto entre el proveedor y el cliente definido y adoptando todas las medidas necesarias para evitar el acceso de personas distintas a la organización a la información sensible.
           .col-md-5
             img(src='@/assets/curso/temas/t2/imag07.svg', alt='')
         .row.justify-content-around.align-items-center
