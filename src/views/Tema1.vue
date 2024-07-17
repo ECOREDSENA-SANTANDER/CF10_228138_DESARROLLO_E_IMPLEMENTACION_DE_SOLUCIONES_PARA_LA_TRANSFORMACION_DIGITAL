@@ -157,7 +157,7 @@
       .col-lg-8(data-aos="fade-left")
         p Las redes de datos tienen por función potenciar e incrementar la productividad de las organizaciones al permitir que todos los dispositivos que se encuentran conectados puedan acceder a los recursos que se encuentran compartidos, en los últimos años la tecnología ha entrado a jugar un papel preponderante en el desarrollo y evolución de las organizaciones y cada vez está más inmersa en todos los procesos y actividades empresariales, personales y cotidianas.
         .cajon.color-secundario.bg-9.p-4.mb-4
-          p.mb-0 Las redes han permitido que los servicios y el acceso a estos recursos sean cada vez más necesarios, ya que se requiere tener en todo momento trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos, esto es lo que conocemos como el #[em networking]. Para que dichas redes pueden interconectarse y trabajar en red se requiere de una serie de componentes desde el punto de vista físico y lógico, dentro de los cuales destacamos los siguientes:
+          p.mb-0 Las redes han permitido que los servicios y el acceso a estos recursos sea cada vez más necesarios, ya que se requiere tener en todo momento trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos, esto es lo que conocemos como el #[em networking]. Para que dichas redes pueden interconectarse y trabajar en red se requiere de una serie de componentes desde el punto de vista físico y lógico, dentro de los cuales destacamos los siguientes:
     
     .row.mb-5(data-aos="fade-down")
       .col-6.col-lg.mb-4.mb-lg-0
@@ -374,8 +374,8 @@
         img.mb-3.d-flex.d-lg-none(src="@/assets/curso/temas/t1/fig1-mob.svg" alt="El diagrama describe el modelo TCP/IP y sus 4 capas de la siguiente manera: Capa 4, aplicación, representa datos para el usuario más el control de codificación y de diálogo. Capa 3, transporte, admite la comunicación entre distintos dispositivos de distintas redes. Capa 2, internet, determina la mejor ruta a través de la red. Capa 1, acceso a la red, controla los dispositivos de hardware y los medios que forman la red.")
         figcaption 
           p.mb-0 #[b Fuente.] Adaptado de 
-            a(:href="('https://bit.ly/32BgN6J')" target="_blank")
-              span https://bit.ly/32BgN6J
+            a(:href="('http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro35/tcp.png')" target="_blank")
+              span http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro35/tcp.png
 
     
     #4.subtitulo.mb-4(data-aos="fade")
@@ -547,8 +547,8 @@
       .col-lg-10.mb-4
         figcaption 
           p.mb-0 #[b Fuente.] Adaptado de 
-            a(:href="('https://bit.ly/3CPjaPq')" target="_blank")
-              span https://bit.ly/3CPjaPq
+            a(:href="('https://mediosdetransmision07.wordpress.com/wp-content/uploads/2015/03/medios-guiados.png')" target="_blank")
+              span https://mediosdetransmision07.wordpress.com/wp-content/uploads/2015/03/medios-guiados.png
 
     p(data-aos="fade") Los medios de transmisión no guiados son aquellos sin cable, transportan ondas electromagnéticas sin usar un conductor físico, sino que se radian a través del aire, por lo que están disponibles para cualquiera que tenga un dispositivo capaz de aceptarlas.
     p(data-aos="fade") Normalmente utilizan el aire como el medio a través del cual viajan las señales en frecuencias electromagnéticas, por lo que generalmente requieren de una antena que permita transmitir y recibir datos de diferentes tipos.
@@ -1028,8 +1028,8 @@
           img.mb-2(src="@/assets/curso/temas/mapa1.png" alt="En la figura se señalan, sobre un mapa mundial y con círculos azules, todos los países donde existen centros de datos de microsoft Azure.")
           figcaption.mb-5 
             p.mb-0 #[b Fuente.] Adaptado de 
-              a(:href="('https://bit.ly/313Kblk')" target="_blank")
-                span https://bit.ly/313Kblk
+              a(:href="('https://www.cloudmasters.es/wp-content/uploads/2019/09/Mapa-regiones-Azure-Suricatta-1-1024x566.png')" target="_blank")
+                span https://www.cloudmasters.es/wp-content/uploads/2019/09/Mapa-regiones-Azure-Suricatta-1-1024x566.png
         .bg11.p-3
           h4.text-center.mb-0 Dentro de los más de 100 servicios ofrecidos por #[em Microsoft Azure] podemos mencionar:
         .row.justify-content-around.fondo-16
